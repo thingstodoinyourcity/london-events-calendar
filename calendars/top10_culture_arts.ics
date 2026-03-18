@@ -18,6 +18,7 @@ DESCRIPTION:Exhibition exploring the French queen's fashion legacy and its
  ttps://londoncheapo.com/events/
 LOCATION:Victoria and Albert Museum\, South Kensington\, London
 URL:https://londoncheapo.com/events/
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:17e9ac771430@london-events-scraper
@@ -30,6 +31,7 @@ DESCRIPTION:Theatrical production of Shakespeare's play featuring four lost
  nTickets/Info: https://londoncheapo.com/events/
 LOCATION:Bankside\, Bankside\, London
 URL:https://londoncheapo.com/events/
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:b10899488240@london-events-scraper
@@ -43,6 +45,7 @@ DESCRIPTION:Welsh National Theatre's production of Thorton Wilder's metathe
  rch
 LOCATION:Rose Kingston\, Kingston\, London
 URL:https://www.timeout.com/london/london-events-in-march
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:bcc557f9c565@london-events-scraper
@@ -56,6 +59,7 @@ DESCRIPTION:Self Esteem stars as an embittered rock star in David Hare's 19
  rch
 LOCATION:Covent Garden\, Covent Garden\, London
 URL:https://www.timeout.com/london/london-events-in-march
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:76f251b4cce0@london-events-scraper
@@ -68,6 +72,7 @@ DESCRIPTION:Exhibition exploring the fashion and music of the legendary 198
  s://londondrum.com/events/?m=march
 LOCATION:Design Museum\, Kensington\, London
 URL:https://londondrum.com/events/?m=march
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6eba1ca0b5@london-events-scraper
@@ -82,6 +87,7 @@ DESCRIPTION:Exhibition featuring a 90-metre-long landscape frieze inspired
 LOCATION:Serpentine North Gallery\, South Kensington\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:8ebe92e44c98@london-events-scraper
@@ -94,6 +100,7 @@ DESCRIPTION:Landmark exhibition of over 100 mixed-media works spanning 40 y
  Tickets/Info: Book tickets here
 LOCATION:Tate Britain\, Pimlico\, London
 URL:Book tickets here
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2cddf8e663f4@london-events-scraper
@@ -107,6 +114,7 @@ DESCRIPTION:Exhibition revealing reality and myths of Japan's warrior class
   more and book tickets here
 LOCATION:The British Museum\, Bloomsbury\, London
 URL:Find out more and book tickets here
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:c4516e0028fe@london-events-scraper
@@ -119,6 +127,7 @@ DESCRIPTION:First UK retrospective of Wes Anderson featuring over 700 archi
  .\n\nPrice: Check site\n\nTickets/Info: Book tickets here
 LOCATION:Design Museum\, Kensington\, London
 URL:Book tickets here
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:01d3e1cee702@london-events-scraper
@@ -133,5 +142,6 @@ DESCRIPTION:Beverly Knight portrays Rosetta Tharpe\, the godmother of rock
 LOCATION:Soho Theatre\, Soho\, London
 URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
  -week
+CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR

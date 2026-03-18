@@ -18,6 +18,7 @@ DESCRIPTION:Talk with Firmdale Hotels Art Ambassador and Design Director fe
  nmynight.com/london/best-london-events-in-march
 LOCATION:Firmdale Hotels (various locations)\, Multiple\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:e6c023f6e349@london-events-scraper
@@ -30,6 +31,7 @@ DESCRIPTION:Afternoon tea with sandwiches\, sweet treats\, signature cockta
  esignmynight.com/london/best-london-events-in-march
 LOCATION:The Chocolate Cocktail Club\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:f76c28461dc3@london-events-scraper
@@ -42,6 +44,7 @@ DESCRIPTION:Exclusive rooftop pods with city views\, blankets\, cocktails a
  tps://www.designmynight.com/london/best-london-events-in-march
 LOCATION:Circe's Rooftop Waterloo\, Waterloo\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:eaefc769a97c@london-events-scraper
@@ -56,6 +59,7 @@ DESCRIPTION:Major West End revival of Shakespeare's love story directed by
 LOCATION:The Harold Pinter Theatre\, West End\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:fbef165a0114@london-events-scraper
@@ -68,6 +72,7 @@ DESCRIPTION:Equinox-themed supper club with multiple courses using seasonal
  .com/london/best-london-events-in-march
 LOCATION:The William Morris Pub\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:3128296afeaa@london-events-scraper
@@ -80,6 +85,7 @@ DESCRIPTION:Wine tasting of eight varieties paired with four courses of sma
  ondon/best-london-events-in-march
 LOCATION:Aspen and Meursault / Diogenes The Dog\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:3729cc351c32@london-events-scraper
@@ -93,6 +99,7 @@ DESCRIPTION:Immersive mystery experience where you solve cases while enjoyi
  march
 LOCATION:Pedley Street Station\, Shoreditch\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:656b080d3c08@london-events-scraper
@@ -107,6 +114,7 @@ DESCRIPTION:New production directed by Marianne Elliott starring Lesley Man
 LOCATION:Lyttelton Theatre\, National Theatre\, Southbank\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:e109e011b4f3@london-events-scraper
@@ -120,6 +128,7 @@ DESCRIPTION:Wine tasting evening with sommelier selections\, feast\, and ca
  ts-in-march
 LOCATION:L'oscar London\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:290a3414eb2c@london-events-scraper
@@ -132,6 +141,7 @@ DESCRIPTION:Dining experience with over five hours of West End entertainmen
  signmynight.com/london/best-london-events-in-march
 LOCATION:Secret London Location\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:12ec88aa1b3c@london-events-scraper
@@ -146,6 +156,7 @@ DESCRIPTION:Large-scale Tube station paintings from the late 1990s with sou
 LOCATION:Guildhall Yard\, City of London\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:e428f8838e08@london-events-scraper
@@ -158,6 +169,7 @@ DESCRIPTION:One-on-one theatrical performances where a single actor perform
  ts/Info: https://www.ticketmaster.com
 LOCATION:Barbican Centre\, Barbican\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6e372cb7a2@london-events-scraper
@@ -170,6 +182,7 @@ DESCRIPTION:Illuminated serpent installation floating above courtyard fount
  .\n\nPrice: Check site\n\nTickets/Info: https://www.ticketmaster.com
 LOCATION:Somerset House\, Strand\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:ec5dc98b33b5@london-events-scraper
@@ -182,6 +195,7 @@ DESCRIPTION:Immersive prison-themed theatre and cocktail experience with co
  o: https://www.designmynight.com/london/best-london-events-in-march
 LOCATION:Alcotraz Penitentiary: London\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:ada72ced17e3@london-events-scraper
@@ -194,6 +208,7 @@ DESCRIPTION:Multi-sensory exhibition featuring globally-sourced earths expl
  ickets/Info: https://www.timeout.com/london/london-events-in-march
 LOCATION:Somerset House\, Strand\, London
 URL:https://www.timeout.com/london/london-events-in-march
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:50b63c6e550c@london-events-scraper
@@ -207,6 +222,7 @@ DESCRIPTION:Lynchian cabaret and burlesque night with dream sequences and s
  n-march
 LOCATION:Walthamstow Trades Hall\, Walthamstow\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:51b6b71c5575@london-events-scraper
@@ -221,6 +237,7 @@ DESCRIPTION:Immersive theatrical bar experience with dark arts wizards\, pr
 LOCATION:Hexmoor\, Hackney\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:2af5bdda2f14@london-events-scraper
@@ -233,6 +250,7 @@ DESCRIPTION:Guided foraging walk exploring London's wild edibles with exper
  ndoncheapo.com/events/march/
 LOCATION:Tower Hamlets\, Tower Hamlets\, London
 URL:https://londoncheapo.com/events/march/
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:2280c716bb4c@london-events-scraper
@@ -245,6 +263,7 @@ DESCRIPTION:Series exploring transformative events in unexpected places acr
  .uk/
 LOCATION:Barbican Centre\, Barbican\, London
 URL:https://www.barbican.org.uk/
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:ebcd287fc9d7@london-events-scraper
@@ -259,6 +278,7 @@ DESCRIPTION:Multi-disciplinary festival mixing clown\, dance\, puppetry\, s
 LOCATION:The Rosemary Branch\, Islington\, London
 URL:https://todolist.london/unmissable-things-to-do-in-london-in-march-2026
  /
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:b41e0bb46360@london-events-scraper
@@ -271,6 +291,7 @@ DESCRIPTION:Exhibition exploring the French queen's fashion legacy and its
  ttps://londoncheapo.com/events/
 LOCATION:Victoria and Albert Museum\, South Kensington\, London
 URL:https://londoncheapo.com/events/
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:17e9ac771430@london-events-scraper
@@ -283,6 +304,7 @@ DESCRIPTION:Theatrical production of Shakespeare's play featuring four lost
  nTickets/Info: https://londoncheapo.com/events/
 LOCATION:Bankside\, Bankside\, London
 URL:https://londoncheapo.com/events/
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:b10899488240@london-events-scraper
@@ -296,6 +318,7 @@ DESCRIPTION:Welsh National Theatre's production of Thorton Wilder's metathe
  rch
 LOCATION:Rose Kingston\, Kingston\, London
 URL:https://www.timeout.com/london/london-events-in-march
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:bcc557f9c565@london-events-scraper
@@ -309,6 +332,7 @@ DESCRIPTION:Self Esteem stars as an embittered rock star in David Hare's 19
  rch
 LOCATION:Covent Garden\, Covent Garden\, London
 URL:https://www.timeout.com/london/london-events-in-march
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:76f251b4cce0@london-events-scraper
@@ -321,6 +345,7 @@ DESCRIPTION:Exhibition exploring the fashion and music of the legendary 198
  s://londondrum.com/events/?m=march
 LOCATION:Design Museum\, Kensington\, London
 URL:https://londondrum.com/events/?m=march
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6eba1ca0b5@london-events-scraper
@@ -335,6 +360,7 @@ DESCRIPTION:Exhibition featuring a 90-metre-long landscape frieze inspired
 LOCATION:Serpentine North Gallery\, South Kensington\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:8ebe92e44c98@london-events-scraper
@@ -347,6 +373,7 @@ DESCRIPTION:Landmark exhibition of over 100 mixed-media works spanning 40 y
  Tickets/Info: Book tickets here
 LOCATION:Tate Britain\, Pimlico\, London
 URL:Book tickets here
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:2cddf8e663f4@london-events-scraper
@@ -360,6 +387,7 @@ DESCRIPTION:Exhibition revealing reality and myths of Japan's warrior class
   more and book tickets here
 LOCATION:The British Museum\, Bloomsbury\, London
 URL:Find out more and book tickets here
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:c4516e0028fe@london-events-scraper
@@ -372,6 +400,7 @@ DESCRIPTION:First UK retrospective of Wes Anderson featuring over 700 archi
  .\n\nPrice: Check site\n\nTickets/Info: Book tickets here
 LOCATION:Design Museum\, Kensington\, London
 URL:Book tickets here
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:01d3e1cee702@london-events-scraper
@@ -386,6 +415,7 @@ DESCRIPTION:Beverly Knight portrays Rosetta Tharpe\, the godmother of rock
 LOCATION:Soho Theatre\, Soho\, London
 URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
  -week
+CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:f2ae60b00c29@london-events-scraper
@@ -398,6 +428,7 @@ DESCRIPTION:Wu-Tang Clan perform two London dates featuring soul-laced anth
  tps://www.ticketmaster.com
 LOCATION:The O2\, Greenwich\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:52dda21c97ab@london-events-scraper
@@ -410,6 +441,7 @@ DESCRIPTION:KiLLOWEN explores Irish heritage and noughties nostalgia over s
  ttps://www.ticketmaster.com
 LOCATION:Scala\, King's Cross\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:78d48391b6eb@london-events-scraper
@@ -422,6 +454,7 @@ DESCRIPTION:Metalcore co-headline tour featuring Crystal Lake\, Miss May I\
  /Info: https://www.ticketmaster.com
 LOCATION:O2 Academy Islington\, Islington\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:b822f3b45a20@london-events-scraper
@@ -434,6 +467,7 @@ DESCRIPTION:Renée Rapp performs her second studio album BITE ME with a def
  icketmaster.com
 LOCATION:OVO Arena Wembley\, Wembley\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:e7d829bbc185@london-events-scraper
@@ -447,6 +481,7 @@ DESCRIPTION:London's soca party featuring Caribbean music and dance until 4
 LOCATION:Trapeze Bar\, Shoreditch\, London
 URL:https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week
  /
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:3b66da2cddb5@london-events-scraper
@@ -460,6 +495,7 @@ DESCRIPTION:New Street Adventure returns to perform soul music at the 100 C
 LOCATION:100 Club\, Oxford Street\, London
 URL:https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week
  /
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:272ef15ab03a@london-events-scraper
@@ -471,6 +507,7 @@ DESCRIPTION:Evening of edgy comedy and crowd roasts on a barge.\n\nPrice: U
  nder £10\n\nTickets/Info: https://londondrum.com/events/?m=march
 LOCATION:Battersea Barge\, Battersea\, London
 URL:https://londondrum.com/events/?m=march
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:b46498d00aee@london-events-scraper
@@ -482,6 +519,7 @@ DESCRIPTION:Immersive Wild West experience set in a Moonshine Saloon.\n\nPr
  ice: £44\n\nTickets/Info: https://londondrum.com/events/?m=march
 LOCATION:Moonshine Saloon\, London\, London
 URL:https://londondrum.com/events/?m=march
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:2c597bf97f33@london-events-scraper
@@ -495,6 +533,7 @@ DESCRIPTION:St. Patrick's celebrations with live music\, oyster shucking\,
   https://citizen-femme.com/2026/02/27/what-to-do-in-london-this-weekend/
 LOCATION:Guinness Open Gate Brewery London\, Waterloo\, London
 URL:https://citizen-femme.com/2026/02/27/what-to-do-in-london-this-weekend/
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:78df5235e83e@london-events-scraper
@@ -509,5 +548,6 @@ DESCRIPTION:Bottomless brunch with burlesque\, drag\, country sing-alongs\,
 LOCATION:Tequila Mockingbird Covent Garden\, Covent Garden\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR

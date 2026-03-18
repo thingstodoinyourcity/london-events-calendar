@@ -18,6 +18,7 @@ DESCRIPTION:Wu-Tang Clan perform two London dates featuring soul-laced anth
  tps://www.ticketmaster.com
 LOCATION:The O2\, Greenwich\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:52dda21c97ab@london-events-scraper
@@ -30,6 +31,7 @@ DESCRIPTION:KiLLOWEN explores Irish heritage and noughties nostalgia over s
  ttps://www.ticketmaster.com
 LOCATION:Scala\, King's Cross\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:78d48391b6eb@london-events-scraper
@@ -42,6 +44,7 @@ DESCRIPTION:Metalcore co-headline tour featuring Crystal Lake\, Miss May I\
  /Info: https://www.ticketmaster.com
 LOCATION:O2 Academy Islington\, Islington\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:b822f3b45a20@london-events-scraper
@@ -54,6 +57,7 @@ DESCRIPTION:Renée Rapp performs her second studio album BITE ME with a def
  icketmaster.com
 LOCATION:OVO Arena Wembley\, Wembley\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:e7d829bbc185@london-events-scraper
@@ -67,6 +71,7 @@ DESCRIPTION:London's soca party featuring Caribbean music and dance until 4
 LOCATION:Trapeze Bar\, Shoreditch\, London
 URL:https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week
  /
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:3b66da2cddb5@london-events-scraper
@@ -80,6 +85,7 @@ DESCRIPTION:New Street Adventure returns to perform soul music at the 100 C
 LOCATION:100 Club\, Oxford Street\, London
 URL:https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week
  /
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:272ef15ab03a@london-events-scraper
@@ -91,6 +97,7 @@ DESCRIPTION:Evening of edgy comedy and crowd roasts on a barge.\n\nPrice: U
  nder £10\n\nTickets/Info: https://londondrum.com/events/?m=march
 LOCATION:Battersea Barge\, Battersea\, London
 URL:https://londondrum.com/events/?m=march
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:b46498d00aee@london-events-scraper
@@ -102,6 +109,7 @@ DESCRIPTION:Immersive Wild West experience set in a Moonshine Saloon.\n\nPr
  ice: £44\n\nTickets/Info: https://londondrum.com/events/?m=march
 LOCATION:Moonshine Saloon\, London\, London
 URL:https://londondrum.com/events/?m=march
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:2c597bf97f33@london-events-scraper
@@ -115,6 +123,7 @@ DESCRIPTION:St. Patrick's celebrations with live music\, oyster shucking\,
   https://citizen-femme.com/2026/02/27/what-to-do-in-london-this-weekend/
 LOCATION:Guinness Open Gate Brewery London\, Waterloo\, London
 URL:https://citizen-femme.com/2026/02/27/what-to-do-in-london-this-weekend/
+CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:78df5235e83e@london-events-scraper
@@ -129,5 +138,6 @@ DESCRIPTION:Bottomless brunch with burlesque\, drag\, country sing-alongs\,
 LOCATION:Tequila Mockingbird Covent Garden\, Covent Garden\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR

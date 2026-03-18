@@ -20,6 +20,7 @@ DESCRIPTION:Large-scale Tube station paintings from the late 1990s with sou
 LOCATION:Guildhall Yard\, City of London\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:e428f8838e08@london-events-scraper
@@ -32,6 +33,7 @@ DESCRIPTION:One-on-one theatrical performances where a single actor perform
  ts/Info: https://www.ticketmaster.com
 LOCATION:Barbican Centre\, Barbican\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6e372cb7a2@london-events-scraper
@@ -44,6 +46,7 @@ DESCRIPTION:Illuminated serpent installation floating above courtyard fount
  .\n\nPrice: Check site\n\nTickets/Info: https://www.ticketmaster.com
 LOCATION:Somerset House\, Strand\, London
 URL:https://www.ticketmaster.com
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:ec5dc98b33b5@london-events-scraper
@@ -56,6 +59,7 @@ DESCRIPTION:Immersive prison-themed theatre and cocktail experience with co
  o: https://www.designmynight.com/london/best-london-events-in-march
 LOCATION:Alcotraz Penitentiary: London\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:ada72ced17e3@london-events-scraper
@@ -68,6 +72,7 @@ DESCRIPTION:Multi-sensory exhibition featuring globally-sourced earths expl
  ickets/Info: https://www.timeout.com/london/london-events-in-march
 LOCATION:Somerset House\, Strand\, London
 URL:https://www.timeout.com/london/london-events-in-march
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:50b63c6e550c@london-events-scraper
@@ -81,6 +86,7 @@ DESCRIPTION:Lynchian cabaret and burlesque night with dream sequences and s
  n-march
 LOCATION:Walthamstow Trades Hall\, Walthamstow\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:51b6b71c5575@london-events-scraper
@@ -95,6 +101,7 @@ DESCRIPTION:Immersive theatrical bar experience with dark arts wizards\, pr
 LOCATION:Hexmoor\, Hackney\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:2af5bdda2f14@london-events-scraper
@@ -107,6 +114,7 @@ DESCRIPTION:Guided foraging walk exploring London's wild edibles with exper
  ndoncheapo.com/events/march/
 LOCATION:Tower Hamlets\, Tower Hamlets\, London
 URL:https://londoncheapo.com/events/march/
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:2280c716bb4c@london-events-scraper
@@ -119,6 +127,7 @@ DESCRIPTION:Series exploring transformative events in unexpected places acr
  .uk/
 LOCATION:Barbican Centre\, Barbican\, London
 URL:https://www.barbican.org.uk/
+CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:ebcd287fc9d7@london-events-scraper
@@ -133,5 +142,6 @@ DESCRIPTION:Multi-disciplinary festival mixing clown\, dance\, puppetry\, s
 LOCATION:The Rosemary Branch\, Islington\, London
 URL:https://todolist.london/unmissable-things-to-do-in-london-in-march-2026
  /
+CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR

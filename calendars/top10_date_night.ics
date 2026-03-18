@@ -18,6 +18,7 @@ DESCRIPTION:Talk with Firmdale Hotels Art Ambassador and Design Director fe
  nmynight.com/london/best-london-events-in-march
 LOCATION:Firmdale Hotels (various locations)\, Multiple\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:e6c023f6e349@london-events-scraper
@@ -30,6 +31,7 @@ DESCRIPTION:Afternoon tea with sandwiches\, sweet treats\, signature cockta
  esignmynight.com/london/best-london-events-in-march
 LOCATION:The Chocolate Cocktail Club\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:f76c28461dc3@london-events-scraper
@@ -42,6 +44,7 @@ DESCRIPTION:Exclusive rooftop pods with city views\, blankets\, cocktails a
  tps://www.designmynight.com/london/best-london-events-in-march
 LOCATION:Circe's Rooftop Waterloo\, Waterloo\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:eaefc769a97c@london-events-scraper
@@ -56,6 +59,7 @@ DESCRIPTION:Major West End revival of Shakespeare's love story directed by
 LOCATION:The Harold Pinter Theatre\, West End\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:fbef165a0114@london-events-scraper
@@ -68,6 +72,7 @@ DESCRIPTION:Equinox-themed supper club with multiple courses using seasonal
  .com/london/best-london-events-in-march
 LOCATION:The William Morris Pub\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:3128296afeaa@london-events-scraper
@@ -80,6 +85,7 @@ DESCRIPTION:Wine tasting of eight varieties paired with four courses of sma
  ondon/best-london-events-in-march
 LOCATION:Aspen and Meursault / Diogenes The Dog\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:3729cc351c32@london-events-scraper
@@ -93,6 +99,7 @@ DESCRIPTION:Immersive mystery experience where you solve cases while enjoyi
  march
 LOCATION:Pedley Street Station\, Shoreditch\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:656b080d3c08@london-events-scraper
@@ -107,6 +114,7 @@ DESCRIPTION:New production directed by Marianne Elliott starring Lesley Man
 LOCATION:Lyttelton Theatre\, National Theatre\, Southbank\, London
 URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
  eekend
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:e109e011b4f3@london-events-scraper
@@ -120,6 +128,7 @@ DESCRIPTION:Wine tasting evening with sommelier selections\, feast\, and ca
  ts-in-march
 LOCATION:L'oscar London\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:290a3414eb2c@london-events-scraper
@@ -132,5 +141,6 @@ DESCRIPTION:Dining experience with over five hours of West End entertainmen
  signmynight.com/london/best-london-events-in-march
 LOCATION:Secret London Location\, Central London\, London
 URL:https://www.designmynight.com/london/best-london-events-in-march
+CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
