@@ -65,12 +65,12 @@
     .subscribe-btn:hover { background: #e55a24; }
     .map-card {
       background: #1a1a1a;
-      border: 1px solid #2a2a2a;
+      border: 1px solid #1e3a4a;
       border-radius: 12px;
       padding: 24px;
       margin-bottom: 48px;
     }
-    .map-card h2 { margin-bottom: 8px; }
+    .map-card h2 { margin-bottom: 8px; color: #38bdf8; }
     .map-card .desc {
       font-size: 0.9rem;
       color: rgba(255,255,255,0.55);
@@ -79,8 +79,8 @@
     }
     .map-btn {
       display: inline-block;
-      background: #FF6B35;
-      color: #fff;
+      background: #38bdf8;
+      color: #0f0f0f;
       text-decoration: none;
       padding: 12px 24px;
       border-radius: 8px;
@@ -88,7 +88,7 @@
       font-weight: 600;
       transition: background 0.15s;
     }
-    .map-btn:hover { background: #e55a24; }
+    .map-btn:hover { background: #7dd3fc; }
     .map-note {
       font-size: 0.8rem;
       color: rgba(255,255,255,0.35);
@@ -164,6 +164,12 @@
     <h1>🇬🇧 London Events Hub</h1>
     <p class="tagline">The best London weekend events, every week — subscribe to a calendar or explore the map. Updated every Wednesday.</p>
 
+    <div class="map-card">
+      <h2>🗺️ Events Map</h2>
+      <p class="desc">See this week's top 40 events plotted on a map — colour-coded by category. Tap any pin for details and a link to book. Updated every week alongside the calendars.</p>
+      <a class="map-btn" href="map/" target="_blank" rel="noopener">Open Map →</a>
+    </div>
+
     <h2>Available Calendars</h2>
     <div class="calendars">
       <div class="cal-card">
@@ -209,12 +215,6 @@
         </div>
         <a class="subscribe-btn" href="webcal://thingstodoinyourcity.github.io/london-events-hub/calendars/all_events.ics">Subscribe</a>
       </div>
-    </div>
-
-    <div class="map-card">
-      <h2>🗺️ Events Map</h2>
-      <p class="desc">See this week's top 40 events plotted on a map — colour-coded by category. Tap any pin for details and a link to book. Updated every week alongside the calendars.</p>
-      <a class="map-btn" href="map/" target="_blank" rel="noopener">Open Map →</a>
     </div>
 
     <div class="how-to">
