@@ -89,6 +89,18 @@
       transition: background 0.15s;
     }
     .map-btn:hover { background: #7dd3fc; }
+    .map-btn-secondary {
+      background: transparent;
+      color: #38bdf8;
+      border: 1px solid #38bdf8;
+    }
+    .map-btn-secondary:hover { background: rgba(56,189,248,0.1); color: #7dd3fc; border-color: #7dd3fc; }
+    .map-note {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.35);
+      margin-top: 14px;
+      line-height: 1.5;
+    }
     .map-note {
       font-size: 0.8rem;
       color: rgba(255,255,255,0.35);
@@ -166,8 +178,12 @@
 
     <div class="map-card">
       <h2>🗺️ Interactive Events Map</h2>
-      <p class="desc">See this week's top 40 events plotted on a map — colour-coded by category.</p>
-      <a class="map-btn" href="map/" target="_blank" rel="noopener">Interactive Events Map →</a>
+      <p class="desc">See this week's events plotted on a map — colour-coded by category.</p>
+      <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
+        <a class="map-btn" href="map/" target="_blank" rel="noopener">Top 40 Events →</a>
+        <a class="map-btn map-btn-secondary" href="map/all.html" target="_blank" rel="noopener">All Events →</a>
+      </div>
+      <p class="map-note">⚠️ The full list is a community bonus — we don't always have time to check every detail, so some event info may be incomplete or slightly off. Always worth double-checking before you head out.</p>
     </div>
 
     <h2>Available Calendars</h2>
