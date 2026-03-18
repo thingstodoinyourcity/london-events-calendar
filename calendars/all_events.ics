@@ -8,11 +8,11 @@ X-WR-CALDESC:Every London weekend event we've found this week — theatre\, musi
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:b41e0bb46360@london-events-scraper
+UID:462938f5a146@london-events-scraper
 DTSTAMP:20260318T000000Z
-DTSTART;VALUE=DATE:20260920
+DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20260323
-SUMMARY:Marie Antoinette Style
+SUMMARY:Arts & Culture · Marie Antoinette Style
 DESCRIPTION:Exhibition exploring the French queen's fashion legacy and its 
  countless style revivals.\n\nPrice: £23.00 – £25.00\n\nTickets/Info: h
  ttps://londoncheapo.com/events/
@@ -25,7 +25,7 @@ UID:2280c716bb4c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260413
-SUMMARY:Scene Change
+SUMMARY:Community · Scene Change
 DESCRIPTION:Series exploring transformative events in unexpected places acr
  oss London.\n\nPrice: Check site\n\nTickets/Info: https://www.barbican.org
  .uk/
@@ -38,7 +38,7 @@ UID:17e9ac771430@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260413
-SUMMARY:The Tempest
+SUMMARY:Theatre · The Tempest
 DESCRIPTION:Theatrical production of Shakespeare's play featuring four lost
   souls on an island retelling their story.\n\nPrice: £5.00 – £80.00\n\
  nTickets/Info: https://londoncheapo.com/events/
@@ -51,7 +51,7 @@ UID:4dcb00a502e6@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260718
-SUMMARY:Rise and Fall of a Temple
+SUMMARY:Arts & Culture · Rise and Fall of a Temple
 DESCRIPTION:Major multimedia exhibition by Eva Sajovic exploring empire\, p
  ower and legacy through sculptures\, tapestries\, ceramics and film inspir
  ed by Ancient Rome.\n\nPrice: Free\n\nTickets/Info: https://secretldn.com/
@@ -65,7 +65,7 @@ UID:972f49d08600@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260412
-SUMMARY:Deep Azure
+SUMMARY:Theatre · Deep Azure
 DESCRIPTION:UK premiere of Chadwick Boseman's work exploring themes of love
  \, grief and justice.\n\nPrice: £5.00 – £80.00\n\nTickets/Info: https:
  //londoncheapo.com/events/
@@ -78,7 +78,7 @@ UID:217f39c62e94@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260601
-SUMMARY:Lynda Benglis - Encounters: Giacometti
+SUMMARY:Arts & Culture · Lynda Benglis - Encounters: Giacometti
 DESCRIPTION:Art and design exhibition exploring encounters between Lynda Be
  nglis and Giacometti.\n\nPrice: Check site\n\nTickets/Info: https://www.ba
  rbican.org.uk/
@@ -91,7 +91,7 @@ UID:1909ac23634a@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260320
-SUMMARY:The Secret Agent
+SUMMARY:Arts & Culture · The Secret Agent
 DESCRIPTION:Cinema screening.\n\nPrice: Check site\n\nTickets/Info: https:/
  /www.barbican.org.uk/
 LOCATION:Barbican Centre\, Barbican\, London
@@ -103,7 +103,7 @@ UID:945dcbdaf094@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260329
-SUMMARY:Sense Ability
+SUMMARY:Community · Sense Ability
 DESCRIPTION:A 5-week community project offering a cultural venue\, cafe\, a
  pothecary and gallery with deep-listening and resting spaces.\n\nPrice: Fr
  ee\n\nTickets/Info: https://londoncheapo.com/events/march/
@@ -116,7 +116,7 @@ UID:12ec88aa1b3c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260921
-SUMMARY:The Underground (And Surface)
+SUMMARY:Arts & Culture · The Underground (And Surface)
 DESCRIPTION:Large-scale Tube station paintings from the late 1990s with sou
  ndscape by Jem Finer\, transforming how you see the Underground.\n\nPrice:
   pay what you can\n\nTickets/Info: https://www.designmynight.com/london/bl
@@ -131,7 +131,7 @@ UID:80935d5a5d4c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260320
-SUMMARY:Sirât
+SUMMARY:Arts & Culture · Sirât
 DESCRIPTION:Cinema screening.\n\nPrice: Check site\n\nTickets/Info: https:/
  /www.barbican.org.uk/
 LOCATION:Barbican Centre\, Barbican\, London
@@ -143,7 +143,7 @@ UID:bd8d7ee91f4b@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260320
-SUMMARY:The Testament of Ann Lee
+SUMMARY:Arts & Culture · The Testament of Ann Lee
 DESCRIPTION:Cinema screening.\n\nPrice: Check site\n\nTickets/Info: https:/
  /www.barbican.org.uk/
 LOCATION:Barbican Centre\, Barbican\, London
@@ -155,7 +155,7 @@ UID:b10899488240@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260329
-SUMMARY:Our Town
+SUMMARY:Theatre · Our Town
 DESCRIPTION:Welsh National Theatre's production of Thorton Wilder's metathe
  atrical drama featuring Michael Sheen as the Stage Manager.\n\nPrice: Chec
  k site\n\nTickets/Info: https://www.timeout.com/london/london-events-in-ma
@@ -169,7 +169,7 @@ UID:bcc557f9c565@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260607
-SUMMARY:Teeth 'n' Smiles
+SUMMARY:Theatre · Teeth 'n' Smiles
 DESCRIPTION:Self Esteem stars as an embittered rock star in David Hare's 19
  75 drama with new musical contributions from the performer.\n\nPrice: Chec
  k site\n\nTickets/Info: https://www.timeout.com/london/london-events-in-ma
@@ -183,7 +183,7 @@ UID:0cef062ec3da@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260430
-SUMMARY:Summerfolk
+SUMMARY:Theatre · Summerfolk
 DESCRIPTION:Adaptation of Maxim Gorky's drama following Russia's 1905 bourg
  eoisie retreating to the countryside.\n\nPrice: Check site\n\nTickets/Info
  : https://www.timeout.com/london/london-events-in-march
@@ -196,7 +196,7 @@ UID:ebcd287fc9d7@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260401
-SUMMARY:Look for the Woman Festival
+SUMMARY:Festival · Look for the Woman Festival
 DESCRIPTION:Multi-disciplinary festival mixing clown\, dance\, puppetry\, s
  ketch comedy\, drag\, poetry and fine art.\n\nPrice: Check site\n\nTickets
  /Info: https://todolist.london/unmissable-things-to-do-in-london-in-march-
@@ -211,7 +211,7 @@ UID:85c6fbd0369b@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260401
-SUMMARY:Sound Bath with Nancy Trueman
+SUMMARY:Wellness · Sound Bath with Nancy Trueman
 DESCRIPTION:Sound bath experience designed to encourage deep relaxation and
   mindfulness.\n\nPrice: Check site\n\nTickets/Info: https://www.designmyni
  ght.com/london/best-london-events-in-march
@@ -224,7 +224,7 @@ UID:222a47eedf76@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260401
-SUMMARY:Intimate Talk with Willow Kemp
+SUMMARY:Arts & Culture · Intimate Talk with Willow Kemp
 DESCRIPTION:Talk with Firmdale Hotels Art Ambassador and Design Director fe
  aturing cocktails.\n\nPrice: Check site\n\nTickets/Info: https://www.desig
  nmynight.com/london/best-london-events-in-march
@@ -237,7 +237,7 @@ UID:272ef15ab03a@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260330
-SUMMARY:Dark Comedy & Crowd Roasts
+SUMMARY:Comedy · Dark Comedy & Crowd Roasts
 DESCRIPTION:Evening of edgy comedy and crowd roasts on a barge.\n\nPrice: U
  nder £10\n\nTickets/Info: https://londondrum.com/events/?m=march
 LOCATION:Battersea Barge\, Battersea\, London
@@ -249,7 +249,7 @@ UID:76f251b4cce0@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260330
-SUMMARY:Blitz: The Club That Shaped The 80s
+SUMMARY:Arts & Culture · Blitz: The Club That Shaped The 80s
 DESCRIPTION:Exhibition exploring the fashion and music of the legendary 198
  0s Blitz club in Covent Garden.\n\nPrice: Check site\n\nTickets/Info: http
  s://londondrum.com/events/?m=march
@@ -262,7 +262,7 @@ UID:b46498d00aee@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260401
-SUMMARY:Moonshine Saloon Immersive Experience
+SUMMARY:Nightlife · Moonshine Saloon Immersive Experience
 DESCRIPTION:Immersive Wild West experience set in a Moonshine Saloon.\n\nPr
  ice: £44\n\nTickets/Info: https://londondrum.com/events/?m=march
 LOCATION:Moonshine Saloon\, London\, London
@@ -274,7 +274,7 @@ UID:82f17307f7d9@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260325
-SUMMARY:The Uncontainable Nausea of Alec Baldwin
+SUMMARY:Theatre · The Uncontainable Nausea of Alec Baldwin
 DESCRIPTION:Migrant-led experimental theatre company TG WORKS presents a pr
  ovocative mix of conscience and violence.\n\nPrice: From £11\n\nTickets/I
  nfo: https://todolist.london/unmissable-things-to-do-in-london-in-march-20
@@ -289,7 +289,7 @@ UID:449e519c928c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260320
-SUMMARY:Sound of Falling
+SUMMARY:Arts & Culture · Sound of Falling
 DESCRIPTION:Cinema screening.\n\nPrice: Check site\n\nTickets/Info: https:/
  /www.barbican.org.uk/
 LOCATION:Barbican Centre\, Barbican\, London
@@ -301,7 +301,7 @@ UID:e428f8838e08@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260323
-SUMMARY:Theatre for One
+SUMMARY:Theatre · Theatre for One
 DESCRIPTION:One-on-one theatrical performances where a single actor perform
  s a five-minute play for just one audience member.\n\nPrice: Free\n\nTicke
  ts/Info: https://www.ticketmaster.com
@@ -314,7 +314,7 @@ UID:0b6eba1ca0b5@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260824
-SUMMARY:David Hockney: A Year In Normandie
+SUMMARY:Arts & Culture · David Hockney: A Year In Normandie
 DESCRIPTION:Exhibition featuring a 90-metre-long landscape frieze inspired 
  by the Bayeux Tapestry showing French countryside.\n\nPrice: Free\n\nTicke
  ts/Info: https://www.designmynight.com/london/blog/things-to-do-in-london-
@@ -329,7 +329,7 @@ UID:d146e6d43563@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260420
-SUMMARY:Guess How Much I Love You Afternoon Tea
+SUMMARY:Family · Guess How Much I Love You Afternoon Tea
 DESCRIPTION:Literary-themed family afternoon tea with book-inspired treats\
  , sandwiches\, scones and children's menu with gift bag.\n\nPrice: From £
  45\n\nTickets/Info: https://secretldn.com/things-to-do-in-london-weekend/
@@ -342,7 +342,7 @@ UID:2c597bf97f33@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260318
-SUMMARY:St. Patrick's Day at Guinness Open Gate
+SUMMARY:Food & Drink · St. Patrick's Day at Guinness Open Gate
 DESCRIPTION:St. Patrick's celebrations with live music\, oyster shucking\, 
  special menu\, brewery tours and comedy from Rory O'Hanlon.\n\nPrice: £45
   for three-course menu\; brewery tour price not specified\n\nTickets/Info:
@@ -356,7 +356,7 @@ UID:8ebe92e44c98@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260901
-SUMMARY:Tracey Emin: A Second Life
+SUMMARY:Arts & Culture · Tracey Emin: A Second Life
 DESCRIPTION:Landmark exhibition of over 100 mixed-media works spanning 40 y
  ears exploring life\, love\, heartbreak and hope.\n\nPrice: Check site\n\n
  Tickets/Info: Book tickets here
@@ -369,7 +369,7 @@ UID:2cddf8e663f4@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260505
-SUMMARY:Samurai at The British Museum
+SUMMARY:Arts & Culture · Samurai at The British Museum
 DESCRIPTION:Exhibition revealing reality and myths of Japan's warrior class
   through battle gear\, paintings\, textiles and modern depictions.\n\nPric
  e: Adults from £23\, Members and under-16s free\n\nTickets/Info: Find out
@@ -383,7 +383,7 @@ UID:c4516e0028fe@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260727
-SUMMARY:Wes Anderson: The Archives
+SUMMARY:Arts & Culture · Wes Anderson: The Archives
 DESCRIPTION:First UK retrospective of Wes Anderson featuring over 700 archi
  ve items including costumes\, sets\, props and behind-the-scenes materials
  .\n\nPrice: Check site\n\nTickets/Info: Book tickets here
@@ -396,7 +396,7 @@ UID:ffac941b5e1c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260319
-SUMMARY:Resurrection
+SUMMARY:Arts & Culture · Resurrection
 DESCRIPTION:Cinema screening.\n\nPrice: Check site\n\nTickets/Info: https:/
  /www.barbican.org.uk/
 LOCATION:Barbican Centre\, Barbican\, London
@@ -408,7 +408,7 @@ UID:dd387ef4fff7@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260320
-SUMMARY:The Love That Remains
+SUMMARY:Arts & Culture · The Love That Remains
 DESCRIPTION:Cinema screening.\n\nPrice: Check site\n\nTickets/Info: https:/
  /www.barbican.org.uk/
 LOCATION:Barbican Centre\, Barbican\, London
@@ -420,7 +420,7 @@ UID:74bcfca40ac7@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260322
-SUMMARY:Black Athena Festival
+SUMMARY:Festival · Black Athena Festival
 DESCRIPTION:Multi-disciplinary fiesta including 360° gig\, Nigerian theatr
  e and anime-infused dance-theatre pieces.\n\nPrice: Check site\n\nTickets/
  Info: https://todolist.london/unmissable-things-to-do-in-london-in-march-2
@@ -435,7 +435,7 @@ UID:78df5235e83e@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260830
-SUMMARY:Bottomless Hoedown Brunch
+SUMMARY:Food & Drink · Bottomless Hoedown Brunch
 DESCRIPTION:Bottomless brunch with burlesque\, drag\, country sing-alongs\,
   bingo\, 90 minutes of drinks and pizza.\n\nPrice: from £52.92\n\nTickets
  /Info: https://www.designmynight.com/london/blog/things-to-do-in-london-th
@@ -450,7 +450,7 @@ UID:01d3e1cee702@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260412
-SUMMARY:Marie and Rosetta
+SUMMARY:Theatre · Marie and Rosetta
 DESCRIPTION:Beverly Knight portrays Rosetta Tharpe\, the godmother of rock 
  and roll\, in this intimate two-character play about her life and music.\n
  \nPrice: Check site\n\nTickets/Info: https://www.timeout.com/london/things
@@ -465,7 +465,7 @@ UID:99df09046b82@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260419
-SUMMARY:Broken Glass
+SUMMARY:Theatre · Broken Glass
 DESCRIPTION:Arthur Miller's play about a Jewish Brooklyn housewife mysterio
  usly paralysed following Kristallnacht.\n\nPrice: Check site\n\nTickets/In
  fo: https://www.timeout.com/london/things-to-do/things-to-do-in-london-thi
@@ -480,7 +480,7 @@ UID:5d2b12efb974@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260511
-SUMMARY:Beatriz González Exhibition
+SUMMARY:Arts & Culture · Beatriz González Exhibition
 DESCRIPTION:Retrospective of over 150 works by Colombian artist Beatriz Gon
  zález\, featuring bright pop art paintings spanning six decades.\n\nPrice
  : Check site\n\nTickets/Info: https://www.timeout.com/london/things-to-do/
@@ -495,7 +495,7 @@ UID:d6bf70435324@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260901
-SUMMARY:Tracey Emin: A Second Life
+SUMMARY:Arts & Culture · Tracey Emin: A Second Life
 DESCRIPTION:40-year retrospective of pioneering artist Tracey Emin's work\,
   from iconic pieces like 'My Bed' to stark personal pieces.\n\nPrice: Chec
  k site\n\nTickets/Info: https://www.timeout.com/london/things-to-do/things
@@ -510,7 +510,7 @@ UID:5c534be4e6e1@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260601
-SUMMARY:Catherine Opie: To Be Seen
+SUMMARY:Arts & Culture · Catherine Opie: To Be Seen
 DESCRIPTION:First major UK exhibition of queer photographer Catherine Opie\
  , featuring piercing portraits and challenging representation.\n\nPrice: C
  heck site\n\nTickets/Info: https://www.timeout.com/london/things-to-do/thi
@@ -525,7 +525,7 @@ UID:b6386f5b7167@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260504
-SUMMARY:Lucian Freud: Drawing into Painting
+SUMMARY:Arts & Culture · Lucian Freud: Drawing into Painting
 DESCRIPTION:Exhibition examining Lucian Freud's creative process through wo
  rks on paper\, sketches and visual diary entries.\n\nPrice: Check site\n\n
  Tickets/Info: https://www.timeout.com/london/things-to-do/things-to-do-in-
@@ -540,7 +540,7 @@ UID:3fd63316f911@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260420
-SUMMARY:Rose Wylie: The Picture Comes First
+SUMMARY:Arts & Culture · Rose Wylie: The Picture Comes First
 DESCRIPTION:Retrospective of 91-year-old artist Rose Wylie's vibrant large-
  scale paintings\, first female painter with full retrospective here.\n\nPr
  ice: Check site\n\nTickets/Info: https://www.timeout.com/london/things-to-
@@ -555,7 +555,7 @@ UID:da02542e88ba@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260601
-SUMMARY:Water Pantanal Fire
+SUMMARY:Arts & Culture · Water Pantanal Fire
 DESCRIPTION:Free exhibition of over 60 photographs by acclaimed documentary
   photographers showing wildlife and wildfires of the Pantanal wetland.\n\n
  Price: Free\n\nTickets/Info: https://www.ticketmaster.com
@@ -568,7 +568,7 @@ UID:4f6e372cb7a2@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260427
-SUMMARY:Serpentine Currents
+SUMMARY:Arts & Culture · Serpentine Currents
 DESCRIPTION:Illuminated serpent installation floating above courtyard fount
  ains\, animated by British coastline data conveying eco-conscious messages
  .\n\nPrice: Check site\n\nTickets/Info: https://www.ticketmaster.com
@@ -581,7 +581,7 @@ UID:f2ae60b00c29@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260319
-SUMMARY:Wu-Tang Clan: Wu-Tang Forever
+SUMMARY:Music · Wu-Tang Clan: Wu-Tang Forever
 DESCRIPTION:Wu-Tang Clan perform two London dates featuring soul-laced anth
  ems and previously unheard songs.\n\nPrice: Check site\n\nTickets/Info: ht
  tps://www.ticketmaster.com
@@ -594,7 +594,7 @@ UID:da0be4374ebd@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-SUMMARY:Alfreda - TEASERAMA
+SUMMARY:Nightlife · Alfreda - TEASERAMA
 DESCRIPTION:Cabaret and performance art blending music and visuals about th
  e 'greatest show that never existed'.\n\nPrice: Check site\n\nTickets/Info
  : https://www.ticketmaster.com
@@ -607,7 +607,7 @@ UID:bd71380c262d@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-SUMMARY:11:FS Fintech Insider After Dark
+SUMMARY:Community · 11:FS Fintech Insider After Dark
 DESCRIPTION:Fintech industry event exploring emerging trends and innovation
  s.\n\nPrice: Free\n\nTickets/Info: https://www.eventbrite.co.uk/d/united-k
  ingdom--london/events--this-week/
@@ -621,7 +621,7 @@ UID:4d7fda45c3c2@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-SUMMARY:5x15 Special: Antony Beevor on Rasputin
+SUMMARY:Community · 5x15 Special: Antony Beevor on Rasputin
 DESCRIPTION:Special talk by historian Antony Beevor exploring the life and 
  legacy of Rasputin.\n\nPrice: £33.22\n\nTickets/Info: https://www.eventbr
  ite.co.uk/d/united-kingdom--london/events--this-week/
@@ -635,7 +635,7 @@ UID:e6c023f6e349@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-SUMMARY:Chocolate Afternoon Tea
+SUMMARY:Food & Drink · Chocolate Afternoon Tea
 DESCRIPTION:Afternoon tea with sandwiches\, sweet treats\, signature cockta
  ils and bubbly.\n\nPrice: £29.70 - £37.40\n\nTickets/Info: https://www.d
  esignmynight.com/london/best-london-events-in-march
@@ -648,7 +648,7 @@ UID:ec5dc98b33b5@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-SUMMARY:Alcotraz London: Cell Block Two-One-Two
+SUMMARY:Nightlife · Alcotraz London: Cell Block Two-One-Two
 DESCRIPTION:Immersive prison-themed theatre and cocktail experience with co
  stumes and top-notch cocktails.\n\nPrice: £39.22 - £69.00\n\nTickets/Inf
  o: https://www.designmynight.com/london/best-london-events-in-march
@@ -661,7 +661,7 @@ UID:026159c9949c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-SUMMARY:Moonshine Saloon: Western Cocktail Experience
+SUMMARY:Nightlife · Moonshine Saloon: Western Cocktail Experience
 DESCRIPTION:Immersive Wild West-themed experience with bespoke cocktails in
   a prohibition-era setting.\n\nPrice: £41.80 - £47.52\n\nTickets/Info: h
  ttps://www.designmynight.com/london/best-london-events-in-march
@@ -674,7 +674,7 @@ UID:f76c28461dc3@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-SUMMARY:Circe's Cloud 9 Pods
+SUMMARY:Food & Drink · Circe's Cloud 9 Pods
 DESCRIPTION:Exclusive rooftop pods with city views\, blankets\, cocktails a
  nd creative dishes.\n\nPrice: £250+ deposit (bar tab)\n\nTickets/Info: ht
  tps://www.designmynight.com/london/best-london-events-in-march
@@ -687,7 +687,7 @@ UID:52dda21c97ab@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
-SUMMARY:KiLLOWEN - Addicted to Nostalgia
+SUMMARY:Music · KiLLOWEN - Addicted to Nostalgia
 DESCRIPTION:KiLLOWEN explores Irish heritage and noughties nostalgia over s
  oul-infused beats and club tracks.\n\nPrice: Check site\n\nTickets/Info: h
  ttps://www.ticketmaster.com
@@ -700,7 +700,7 @@ UID:eaefc769a97c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260621
-SUMMARY:Romeo & Juliet
+SUMMARY:Theatre · Romeo & Juliet
 DESCRIPTION:Major West End revival of Shakespeare's love story directed by 
  Robert Icke\, starring Sadie Sink and Noah Jupe in their West End debuts.\
  n\nPrice: from £20\n\nTickets/Info: https://www.designmynight.com/london/
@@ -715,7 +715,7 @@ UID:007cb19303c0@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
-SUMMARY:An Evening with Clive Myrie
+SUMMARY:Community · An Evening with Clive Myrie
 DESCRIPTION:An intimate talk and conversation with broadcaster and journali
  st Clive Myrie.\n\nPrice: £40.00\n\nTickets/Info: https://www.eventbrite.
  co.uk/d/united-kingdom--london/events--this-week/
@@ -729,7 +729,7 @@ UID:ada72ced17e3@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260427
-SUMMARY:The Museum of Edible Earth
+SUMMARY:Arts & Culture · The Museum of Edible Earth
 DESCRIPTION:Multi-sensory exhibition featuring globally-sourced earths expl
  oring culinary traditions and healing practices.\n\nPrice: Check site\n\nT
  ickets/Info: https://www.timeout.com/london/london-events-in-march
@@ -742,7 +742,7 @@ UID:1c15b4c959c6@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260330
-SUMMARY:BFI Flare Film Festival 2026
+SUMMARY:Festival · BFI Flare Film Festival 2026
 DESCRIPTION:UK's largest queer film event for its 40th edition\, featuring 
  documentaries\, features and landmark queer films.\n\nPrice: Check site\n\
  nTickets/Info: https://www.timeout.com/london/london-events-in-march
@@ -755,7 +755,7 @@ UID:fbef165a0114@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
-SUMMARY:CHOOKY Presents: Supper Club
+SUMMARY:Food & Drink · CHOOKY Presents: Supper Club
 DESCRIPTION:Equinox-themed supper club with multiple courses using seasonal
   ingredients.\n\nPrice: £45.00\n\nTickets/Info: https://www.designmynight
  .com/london/best-london-events-in-march
@@ -768,7 +768,7 @@ UID:78d48391b6eb@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
-SUMMARY:Crystal Lake & Miss May I
+SUMMARY:Music · Crystal Lake & Miss May I
 DESCRIPTION:Metalcore co-headline tour featuring Crystal Lake\, Miss May I\
  , and special guests Great American Ghost.\n\nPrice: Check site\n\nTickets
  /Info: https://www.ticketmaster.com
@@ -781,7 +781,7 @@ UID:b822f3b45a20@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260321
-SUMMARY:Renée Rapp - BITE ME Tour
+SUMMARY:Music · Renée Rapp - BITE ME Tour
 DESCRIPTION:Renée Rapp performs her second studio album BITE ME with a def
  iant pop and R&B show.\n\nPrice: Check site\n\nTickets/Info: https://www.t
  icketmaster.com
@@ -794,7 +794,7 @@ UID:f59f62916840@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
-SUMMARY:Careers in Sport LIVE
+SUMMARY:Community · Careers in Sport LIVE
 DESCRIPTION:Career development event exploring opportunities in the sports 
  industry.\n\nPrice: Free\n\nTickets/Info: https://www.eventbrite.co.uk/d/u
  nited-kingdom--london/events--this-week/
@@ -808,7 +808,7 @@ UID:ba2c6b47616d@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
-SUMMARY:Finding Albion: Zakia Sewell & Emma Dabiri
+SUMMARY:Community · Finding Albion: Zakia Sewell & Emma Dabiri
 DESCRIPTION:In-conversation event between Zakia Sewell and Emma Dabiri expl
  oring themes from Finding Albion.\n\nPrice: £8.00\n\nTickets/Info: https:
  //www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/
@@ -822,7 +822,7 @@ UID:0f30c9aa98d4@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
-SUMMARY:Ranjani-Gayatri: Tyagaraja's Path
+SUMMARY:Music · Ranjani-Gayatri: Tyagaraja's Path
 DESCRIPTION:Classical music performance exploring liberation through Indian
   classical traditions.\n\nPrice: Check site\n\nTickets/Info: https://www.b
  arbican.org.uk/
@@ -835,7 +835,7 @@ UID:270002f3648e@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260329
-SUMMARY:Body and Soul
+SUMMARY:Music · Body and Soul
 DESCRIPTION:English National Ballet's UK and world premiere exploring berea
  vement and the search for authentic self.\n\nPrice: Check site\n\nTickets/
  Info: https://www.timeout.com/london/london-events-in-march
@@ -848,7 +848,7 @@ UID:0dfa53743354@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260323
-SUMMARY:The Stitch Festival
+SUMMARY:Festival · The Stitch Festival
 DESCRIPTION:Contemporary sewing and dressmaking show featuring trends in ma
  king and altering clothing.\n\nPrice: £16.00 – £26.00\n\nTickets/Info:
   https://londoncheapo.com/events/march/
@@ -861,7 +861,7 @@ UID:3128296afeaa@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
-SUMMARY:Wine Tasting Flight
+SUMMARY:Food & Drink · Wine Tasting Flight
 DESCRIPTION:Wine tasting of eight varieties paired with four courses of sma
  ll plates.\n\nPrice: £75\n\nTickets/Info: https://www.designmynight.com/l
  ondon/best-london-events-in-march
@@ -874,7 +874,7 @@ UID:50b63c6e550c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
-SUMMARY:RED RABBIT II
+SUMMARY:Nightlife · RED RABBIT II
 DESCRIPTION:Lynchian cabaret and burlesque night with dream sequences and s
  urreal visitations hosted by Benjamin Louche.\n\nPrice: £11.00 - £84.80\
  n\nTickets/Info: https://www.designmynight.com/london/best-london-events-i
@@ -888,7 +888,7 @@ UID:3729cc351c32@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
-SUMMARY:The Murdér Express Part Deux
+SUMMARY:Arts & Social · The Murdér Express Part Deux
 DESCRIPTION:Immersive mystery experience where you solve cases while enjoyi
  ng a three-course meal in a train carriage.\n\nPrice: £92.90 - £99.50\n\
  nTickets/Info: https://www.designmynight.com/london/best-london-events-in-
@@ -902,7 +902,7 @@ UID:02813e15678d@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Arkells
+SUMMARY:Music · Arkells
 DESCRIPTION:Canadian alt-rockers perform tracks from upcoming album Between
   Us\, blending '80s nostalgia with socially-charged collaborations.\n\nPri
  ce: Check site\n\nTickets/Info: https://www.ticketmaster.com
@@ -915,7 +915,7 @@ UID:51b6b71c5575@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260323
-SUMMARY:Hexmoor: Wizarding Prison
+SUMMARY:Nightlife · Hexmoor: Wizarding Prison
 DESCRIPTION:Immersive theatrical bar experience with dark arts wizards\, pr
  ison guards\, three cocktails\, special effects and jumpsuit.\n\nPrice: fr
  om £49.50\n\nTickets/Info: https://www.designmynight.com/london/blog/thin
@@ -930,7 +930,7 @@ UID:f6d6f20530b3@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Avenue Q
+SUMMARY:Theatre · Avenue Q
 DESCRIPTION:Three-time Tony Award-winning musical comedy about a graduate d
  ealing with grown-up problems\, featuring humans and puppets.\n\nPrice: fr
  om £25\n\nTickets/Info: https://www.designmynight.com/london/blog/things-
@@ -945,7 +945,7 @@ UID:571a2d012afb@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Art Surrey
+SUMMARY:Arts & Culture · Art Surrey
 DESCRIPTION:Art exhibition and event at racecourse venue.\n\nPrice: £5.00\
  n\nTickets/Info: https://www.eventbrite.co.uk/d/united-kingdom--london/eve
  nts--this-week/
@@ -959,7 +959,7 @@ UID:10de1ed017c6@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Prezi 16th Motive
+SUMMARY:Nightlife · Prezi 16th Motive
 DESCRIPTION:Event details not provided.\n\nPrice: £5.00\n\nTickets/Info: h
  ttps://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/
 LOCATION:Merky FC HQ\, London\, London
@@ -972,7 +972,7 @@ UID:cffc87a8bc6e@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260426
-SUMMARY:John Proctor is the Villain
+SUMMARY:Theatre · John Proctor is the Villain
 DESCRIPTION:UK debut of Kimberley Belflower's Broadway hit\, a playful post
  -#MeToo riff on Arthur Miller's The Crucible.\n\nPrice: Check site\n\nTick
  ets/Info: https://www.timeout.com/london/london-events-in-march
@@ -985,7 +985,7 @@ UID:f528565007ab@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Cardion Arts
+SUMMARY:Arts & Social · Cardion Arts
 DESCRIPTION:Performance night featuring Wet Mess\, Nando Messias\, Travis A
  labanza and others raising funds for akt.\n\nPrice: From £12\n\nTickets/I
  nfo: https://todolist.london/unmissable-things-to-do-in-london-in-march-20
@@ -1000,7 +1000,7 @@ UID:3f8cf7cd5468@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260323
-SUMMARY:Move It
+SUMMARY:Sport & Fitness · Move It
 DESCRIPTION:World's biggest dance event bringing together over 35\,000 danc
  ers.\n\nPrice: £30.00\n\nTickets/Info: https://londoncheapo.com/events/ma
  rch/
@@ -1013,7 +1013,7 @@ UID:f9ca13b6ae72@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Spider-Man: Into the Spider-Verse Live
+SUMMARY:Music · Spider-Man: Into the Spider-Verse Live
 DESCRIPTION:Live orchestra and turntable virtuosos perform the Emmy-winning
   score while the animated film plays on a huge HD screen.\n\nPrice: Check 
  site\n\nTickets/Info: https://www.ticketmaster.com
@@ -1026,7 +1026,7 @@ UID:cc25128eb964@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Open Leytonstone
+SUMMARY:Community · Open Leytonstone
 DESCRIPTION:Free celebration of Leytonstone featuring free events and taste
  r sessions in craft\, film and dance\, plus local business discounts.\n\nP
  rice: Free\n\nTickets/Info: https://www.ticketmaster.com
@@ -1039,7 +1039,7 @@ UID:656b080d3c08@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260607
-SUMMARY:Les Liaisons Dangereuses
+SUMMARY:Theatre · Les Liaisons Dangereuses
 DESCRIPTION:New production directed by Marianne Elliott starring Lesley Man
  ville and Aidan Turner in a scandalous battle of wits among French aristoc
  rats.\n\nPrice: from £92\n\nTickets/Info: https://www.designmynight.com/l
@@ -1054,7 +1054,7 @@ UID:33c9fa61e7c3@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Banff Mountain Film Festival
+SUMMARY:Arts & Culture · Banff Mountain Film Festival
 DESCRIPTION:Mountain and outdoor adventure film festival showcasing documen
  tary films.\n\nPrice: £18.15\n\nTickets/Info: https://www.eventbrite.co.u
  k/d/united-kingdom--london/events--this-week/
@@ -1068,7 +1068,7 @@ UID:e7d829bbc185@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:SOCA & Friends
+SUMMARY:Nightlife · SOCA & Friends
 DESCRIPTION:London's soca party featuring Caribbean music and dance until 4
  am.\n\nPrice: Free\n\nTickets/Info: https://www.eventbrite.co.uk/d/united-
  kingdom--london/events--this-week/
@@ -1082,7 +1082,7 @@ UID:86a61363f8e7@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Stepps: 2 Years Deep
+SUMMARY:Community · Stepps: 2 Years Deep
 DESCRIPTION:Event celebrating two years of Stepps brand or initiative.\n\nP
  rice: £15.28\n\nTickets/Info: https://www.eventbrite.co.uk/d/united-kingd
  om--london/events--this-week/
@@ -1096,7 +1096,7 @@ UID:3b66da2cddb5@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:New Street Soul Club
+SUMMARY:Music · New Street Soul Club
 DESCRIPTION:New Street Adventure returns to perform soul music at the 100 C
  lub.\n\nPrice: £24.54\n\nTickets/Info: https://www.eventbrite.co.uk/d/uni
  ted-kingdom--london/events--this-week/
@@ -1110,7 +1110,7 @@ UID:0799152c8afa@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Live LinQ Day Party 90s-2000s
+SUMMARY:Nightlife · Live LinQ Day Party 90s-2000s
 DESCRIPTION:Day party featuring 90s and 2000s reggae and dancehall music.\n
  \nPrice: £11.55\n\nTickets/Info: https://www.eventbrite.co.uk/d/united-ki
  ngdom--london/events--this-week/
@@ -1124,7 +1124,7 @@ UID:5b4a9203bc40@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Our Town
+SUMMARY:Theatre · Our Town
 DESCRIPTION:Thornton Wilder's classic American play staged by Michael Sheen
  's Welsh National Theatre with a Welsh production spin.\n\nPrice: Check si
  te\n\nTickets/Info: https://www.timeout.com/london/things-to-do-in-london-
@@ -1138,7 +1138,7 @@ UID:9cf613d1a0de@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Project Hail Mary
+SUMMARY:Nightlife · Project Hail Mary
 DESCRIPTION:Space epic starring Ryan Gosling as an astronaut who teams up w
  ith a friendly extraterrestrial to save the galaxy.\n\nPrice: Check site\n
  \nTickets/Info: https://www.timeout.com/london/things-to-do-in-london-this
@@ -1152,7 +1152,7 @@ UID:2ba7c6e6da79@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260329
-SUMMARY:It Walks Around the House at Night
+SUMMARY:Theatre · It Walks Around the House at Night
 DESCRIPTION:Horror-theatre production about a misfit out-of-work actor caug
  ht up in supernatural goings on in a spooky mansion.\n\nPrice: Check site\
  n\nTickets/Info: https://www.timeout.com/london/things-to-do-in-london-thi
@@ -1166,7 +1166,7 @@ UID:c15ac94cb451@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:The Love That Remains
+SUMMARY:Nightlife · The Love That Remains
 DESCRIPTION:Icelandic family drama about a middle-aged trawlerman strugglin
  g following his separation.\n\nPrice: Check site\n\nTickets/Info: https://
  www.timeout.com/london/things-to-do-in-london-this-weekend
@@ -1179,7 +1179,7 @@ UID:015f62ad212c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260329
-SUMMARY:Manic Street Creature
+SUMMARY:Music · Manic Street Creature
 DESCRIPTION:Gig-theatre show mixing original songs with spoken-word storyte
  lling about a young musician in London.\n\nPrice: Check site\n\nTickets/In
  fo: https://www.timeout.com/london/things-to-do-in-london-this-weekend
@@ -1192,7 +1192,7 @@ UID:52fd302161d9@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260504
-SUMMARY:Chiharu Shiota & Yin Xiuzhen: Fabrics
+SUMMARY:Arts & Culture · Chiharu Shiota & Yin Xiuzhen: Fabrics
 DESCRIPTION:Immersive fabric-themed installations exploring interconnectedn
  ess and the fabric of life.\n\nPrice: Check site\n\nTickets/Info: https://
  www.timeout.com/london/things-to-do-in-london-this-weekend
@@ -1205,7 +1205,7 @@ UID:5fdd54a4fdfc@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260412
-SUMMARY:Evening All Afternoon
+SUMMARY:Theatre · Evening All Afternoon
 DESCRIPTION:Two-hander about an American daughter and British father naviga
  ting grief and loss during Covid lockdown.\n\nPrice: Check site\n\nTickets
  /Info: https://www.timeout.com/london/things-to-do-in-london-this-weekend
@@ -1218,7 +1218,7 @@ UID:c71ceb7c6ab7@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260608
-SUMMARY:Donna Gottschalk: Photography
+SUMMARY:Arts & Culture · Donna Gottschalk: Photography
 DESCRIPTION:Exhibition of photographs championing NYC's lesbian\, trans and
   gay rights movements from midcentury New York.\n\nPrice: Check site\n\nTi
  ckets/Info: https://www.timeout.com/london/things-to-do-in-london-this-wee
@@ -1232,7 +1232,7 @@ UID:a15faf74201f@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20261116
-SUMMARY:Inside Aardman: Wallace & Gromit
+SUMMARY:Family · Inside Aardman: Wallace & Gromit
 DESCRIPTION:Exhibition featuring original Aardman models and hands-on stop-
  motion film activities for kids and adults.\n\nPrice: Check site\n\nTicket
  s/Info: https://www.timeout.com/london/things-to-do-in-london-this-weekend
@@ -1245,7 +1245,7 @@ UID:678a4350d036@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260601
-SUMMARY:Ramses and The Pharaohs' Gold
+SUMMARY:Arts & Culture · Ramses and The Pharaohs' Gold
 DESCRIPTION:Blockbuster exhibition of 180 Egyptian treasures including the 
  coffin of Ramses II after a five-year world tour.\n\nPrice: Check site\n\n
  Tickets/Info: https://www.timeout.com/london/things-to-do-in-london-this-w
@@ -1259,7 +1259,7 @@ UID:9eb4ef4430f5@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Where to From
+SUMMARY:Music · Where to From
 DESCRIPTION:Classical music composition by Hildur Guðnadóttir.\n\nPrice: 
  Check site\n\nTickets/Info: https://www.barbican.org.uk/
 LOCATION:Barbican Centre\, Barbican\, London
@@ -1271,7 +1271,7 @@ UID:1a74229690fe@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260329
-SUMMARY:Deptford Literature Festival
+SUMMARY:Arts & Culture · Deptford Literature Festival
 DESCRIPTION:Literature festival with free events\, accessible talks and wor
  kshops for writers hosted by London Writer's Centre.\n\nPrice: Free\n\nTic
  kets/Info: https://todolist.london/unmissable-things-to-do-in-london-in-ma
@@ -1286,7 +1286,7 @@ UID:a68db1d38bf4@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:GREY ARIAS
+SUMMARY:Comedy · GREY ARIAS
 DESCRIPTION:Cabaret and comedy performance featuring Le Gateau Chocolat and
   Adrienne Truscott.\n\nPrice: From £27\n\nTickets/Info: https://todolist.
  london/unmissable-things-to-do-in-london-in-march-2026/
@@ -1300,7 +1300,7 @@ UID:2af5bdda2f14@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Wild Food Walks – Foraging in London
+SUMMARY:Food & Drink · Wild Food Walks – Foraging in London
 DESCRIPTION:Guided foraging walk exploring London's wild edibles with exper
  ienced independent teachers.\n\nPrice: £40.00\n\nTickets/Info: https://lo
  ndoncheapo.com/events/march/
@@ -1313,7 +1313,7 @@ UID:adee9548314f@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260413
-SUMMARY:The Lindt Gold Bunny Hunt
+SUMMARY:Family · The Lindt Gold Bunny Hunt
 DESCRIPTION:Easter egg hunt for children aged 3-12 with Lindt chocolate bun
  ny prizes.\n\nPrice: Free\n\nTickets/Info: https://londoncheapo.com/events
  /march/
@@ -1326,7 +1326,7 @@ UID:e109e011b4f3@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Cabaret & Cabernet: A Wine Tasting Soirée
+SUMMARY:Food & Drink · Cabaret & Cabernet: A Wine Tasting Soirée
 DESCRIPTION:Wine tasting evening with sommelier selections\, feast\, and ca
  baret performances including contortionists and burlesque.\n\nPrice: £210
  .94\n\nTickets/Info: https://www.designmynight.com/london/best-london-even
@@ -1340,7 +1340,7 @@ UID:290a3414eb2c@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:West End Musical Brunch
+SUMMARY:Food & Drink · West End Musical Brunch
 DESCRIPTION:Dining experience with over five hours of West End entertainmen
  t and bottomless brunch.\n\nPrice: £85.54\n\nTickets/Info: https://www.de
  signmynight.com/london/best-london-events-in-march
@@ -1353,7 +1353,7 @@ UID:a54424a407d6@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:KIKI Drag Cabaret
+SUMMARY:Nightlife · KIKI Drag Cabaret
 DESCRIPTION:Drag cabaret show featuring lip-syncing\, dance and vocals.\n\n
  Price: £14.30 - £19.80\n\nTickets/Info: https://www.designmynight.com/lo
  ndon/best-london-events-in-march
@@ -1366,7 +1366,7 @@ UID:444efdc5c627@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Ginger's Big Drag Bottomless Brunch
+SUMMARY:Food & Drink · Ginger's Big Drag Bottomless Brunch
 DESCRIPTION:Drag brunch with performances\, comedy\, brunch food and prosec
  co.\n\nPrice: £19.80 - £59.34\n\nTickets/Info: https://www.designmynight
  .com/london/best-london-events-in-march
@@ -1379,7 +1379,7 @@ UID:8ae1f408d2dc@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Arsenal Women v West Ham United Women
+SUMMARY:Sport & Fitness · Arsenal Women v West Ham United Women
 DESCRIPTION:Women's football match between Arsenal and West Ham United.\n\n
  Price: Check site\n\nTickets/Info: https://www.ticketmaster.co.uk/discover
  /london
@@ -1392,7 +1392,7 @@ UID:cb1b33fc10b0@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
-SUMMARY:Come Alive! Greatest Showman Circus
+SUMMARY:Family · Come Alive! Greatest Showman Circus
 DESCRIPTION:Circus spectacular inspired by The Greatest Showman.\n\nPrice: 
  Check site\n\nTickets/Info: https://www.ticketmaster.co.uk/discover/london
 LOCATION:Empress Museum\, Central London\, London
@@ -1404,7 +1404,7 @@ UID:82effba888f0@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
-SUMMARY:Carabao Cup Final
+SUMMARY:Sport & Fitness · Carabao Cup Final
 DESCRIPTION:2026 EFL Cup Final: Arsenal F.C. vs Manchester City F.C. at 4:3
  0pm\, viewable at Wembley and London pubs.\n\nPrice: varies\n\nTickets/Inf
  o: https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
@@ -1419,7 +1419,7 @@ UID:210c6cc354fe@london-events-scraper
 DTSTAMP:20260318T000000Z
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
-SUMMARY:Silly Goose at Big Belly Comedy Club
+SUMMARY:Comedy · Silly Goose at Big Belly Comedy Club
 DESCRIPTION:Comedy night featuring rising comics and mystery headliner\, wi
  th a hunt for Southwark's Silliest Goose\; £100 prize.\n\nPrice: from £9
  .70\n\nTickets/Info: https://www.designmynight.com/london/blog/things-to-d

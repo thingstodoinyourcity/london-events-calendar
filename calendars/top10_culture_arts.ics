@@ -8,9 +8,9 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:b41e0bb46360@london-events-scraper
+UID:462938f5a146@london-events-scraper
 DTSTAMP:20260318T000000Z
-DTSTART;VALUE=DATE:20260920
+DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20260323
 SUMMARY:Marie Antoinette Style
 DESCRIPTION:Exhibition exploring the French queen's fashion legacy and its 
