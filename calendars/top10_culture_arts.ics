@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 Top 10 – Culture & Arts
+X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London this week.
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:b41e0bb46360@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260323
+SUMMARY:Marie Antoinette Style
+DESCRIPTION:Exhibition exploring the French queen's fashion legacy and its 
+ countless style revivals.\n\nPrice: £23.00 – £25.00\n\nTickets/Info: h
+ ttps://londoncheapo.com/events/
+LOCATION:Victoria and Albert Museum\, South Kensington\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:17e9ac771430@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260413
+SUMMARY:The Tempest
+DESCRIPTION:Theatrical production of Shakespeare's play featuring four lost
+  souls on an island retelling their story.\n\nPrice: £5.00 – £80.00\n\
+ nTickets/Info: https://londoncheapo.com/events/
+LOCATION:Bankside\, Bankside\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:b10899488240@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260329
+SUMMARY:Our Town
+DESCRIPTION:Welsh National Theatre's production of Thorton Wilder's metathe
+ atrical drama featuring Michael Sheen as the Stage Manager.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.timeout.com/london/london-events-in-ma
+ rch
+LOCATION:Rose Kingston\, Kingston\, London
+URL:https://www.timeout.com/london/london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc557f9c565@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260607
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:Self Esteem stars as an embittered rock star in David Hare's 19
+ 75 drama with new musical contributions from the performer.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.timeout.com/london/london-events-in-ma
+ rch
+LOCATION:Covent Garden\, Covent Garden\, London
+URL:https://www.timeout.com/london/london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:76f251b4cce0@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260330
+SUMMARY:Blitz: The Club That Shaped The 80s
+DESCRIPTION:Exhibition exploring the fashion and music of the legendary 198
+ 0s Blitz club in Covent Garden.\n\nPrice: Check site\n\nTickets/Info: http
+ s://londondrum.com/events/?m=march
+LOCATION:Design Museum\, Kensington\, London
+URL:https://londondrum.com/events/?m=march
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6eba1ca0b5@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260824
+SUMMARY:David Hockney: A Year In Normandie
+DESCRIPTION:Exhibition featuring a 90-metre-long landscape frieze inspired 
+ by the Bayeux Tapestry showing French countryside.\n\nPrice: Free\n\nTicke
+ ts/Info: https://www.designmynight.com/london/blog/things-to-do-in-london-
+ this-weekend
+LOCATION:Serpentine North Gallery\, South Kensington\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+BEGIN:VEVENT
+UID:8ebe92e44c98@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260901
+SUMMARY:Tracey Emin: A Second Life
+DESCRIPTION:Landmark exhibition of over 100 mixed-media works spanning 40 y
+ ears exploring life\, love\, heartbreak and hope.\n\nPrice: Check site\n\n
+ Tickets/Info: Book tickets here
+LOCATION:Tate Britain\, Pimlico\, London
+URL:Book tickets here
+END:VEVENT
+BEGIN:VEVENT
+UID:2cddf8e663f4@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260505
+SUMMARY:Samurai at The British Museum
+DESCRIPTION:Exhibition revealing reality and myths of Japan's warrior class
+  through battle gear\, paintings\, textiles and modern depictions.\n\nPric
+ e: Adults from £23\, Members and under-16s free\n\nTickets/Info: Find out
+  more and book tickets here
+LOCATION:The British Museum\, Bloomsbury\, London
+URL:Find out more and book tickets here
+END:VEVENT
+BEGIN:VEVENT
+UID:c4516e0028fe@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260727
+SUMMARY:Wes Anderson: The Archives
+DESCRIPTION:First UK retrospective of Wes Anderson featuring over 700 archi
+ ve items including costumes\, sets\, props and behind-the-scenes materials
+ .\n\nPrice: Check site\n\nTickets/Info: Book tickets here
+LOCATION:Design Museum\, Kensington\, London
+URL:Book tickets here
+END:VEVENT
+BEGIN:VEVENT
+UID:01d3e1cee702@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260412
+SUMMARY:Marie and Rosetta
+DESCRIPTION:Beverly Knight portrays Rosetta Tharpe\, the godmother of rock 
+ and roll\, in this intimate two-character play about her life and music.\n
+ \nPrice: Check site\n\nTickets/Info: https://www.timeout.com/london/things
+ -to-do/things-to-do-in-london-this-week
+LOCATION:Soho Theatre\, Soho\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
+END:VEVENT
+END:VCALENDAR

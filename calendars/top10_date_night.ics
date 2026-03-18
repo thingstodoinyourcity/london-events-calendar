@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 Top 10 – Date Night
+X-WR-CALDESC:London's top date night experiences this week\, curated for you.
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:222a47eedf76@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260401
+SUMMARY:Intimate Talk with Willow Kemp
+DESCRIPTION:Talk with Firmdale Hotels Art Ambassador and Design Director fe
+ aturing cocktails.\n\nPrice: Check site\n\nTickets/Info: https://www.desig
+ nmynight.com/london/best-london-events-in-march
+LOCATION:Firmdale Hotels (various locations)\, Multiple\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:e6c023f6e349@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Chocolate Afternoon Tea
+DESCRIPTION:Afternoon tea with sandwiches\, sweet treats\, signature cockta
+ ils and bubbly.\n\nPrice: £29.70 - £37.40\n\nTickets/Info: https://www.d
+ esignmynight.com/london/best-london-events-in-march
+LOCATION:The Chocolate Cocktail Club\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:f76c28461dc3@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Circe's Cloud 9 Pods
+DESCRIPTION:Exclusive rooftop pods with city views\, blankets\, cocktails a
+ nd creative dishes.\n\nPrice: £250+ deposit (bar tab)\n\nTickets/Info: ht
+ tps://www.designmynight.com/london/best-london-events-in-march
+LOCATION:Circe's Rooftop Waterloo\, Waterloo\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:eaefc769a97c@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260621
+SUMMARY:Romeo & Juliet
+DESCRIPTION:Major West End revival of Shakespeare's love story directed by 
+ Robert Icke\, starring Sadie Sink and Noah Jupe in their West End debuts.\
+ n\nPrice: from £20\n\nTickets/Info: https://www.designmynight.com/london/
+ blog/things-to-do-in-london-this-weekend
+LOCATION:The Harold Pinter Theatre\, West End\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+BEGIN:VEVENT
+UID:fbef165a0114@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:CHOOKY Presents: Supper Club
+DESCRIPTION:Equinox-themed supper club with multiple courses using seasonal
+  ingredients.\n\nPrice: £45.00\n\nTickets/Info: https://www.designmynight
+ .com/london/best-london-events-in-march
+LOCATION:The William Morris Pub\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:3128296afeaa@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Wine Tasting Flight
+DESCRIPTION:Wine tasting of eight varieties paired with four courses of sma
+ ll plates.\n\nPrice: £75\n\nTickets/Info: https://www.designmynight.com/l
+ ondon/best-london-events-in-march
+LOCATION:Aspen and Meursault / Diogenes The Dog\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:3729cc351c32@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:The Murdér Express Part Deux
+DESCRIPTION:Immersive mystery experience where you solve cases while enjoyi
+ ng a three-course meal in a train carriage.\n\nPrice: £92.90 - £99.50\n\
+ nTickets/Info: https://www.designmynight.com/london/best-london-events-in-
+ march
+LOCATION:Pedley Street Station\, Shoreditch\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:656b080d3c08@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260607
+SUMMARY:Les Liaisons Dangereuses
+DESCRIPTION:New production directed by Marianne Elliott starring Lesley Man
+ ville and Aidan Turner in a scandalous battle of wits among French aristoc
+ rats.\n\nPrice: from £92\n\nTickets/Info: https://www.designmynight.com/l
+ ondon/blog/things-to-do-in-london-this-weekend
+LOCATION:Lyttelton Theatre\, National Theatre\, Southbank\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+BEGIN:VEVENT
+UID:e109e011b4f3@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Cabaret & Cabernet: A Wine Tasting Soirée
+DESCRIPTION:Wine tasting evening with sommelier selections\, feast\, and ca
+ baret performances including contortionists and burlesque.\n\nPrice: £210
+ .94\n\nTickets/Info: https://www.designmynight.com/london/best-london-even
+ ts-in-march
+LOCATION:L'oscar London\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:290a3414eb2c@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:West End Musical Brunch
+DESCRIPTION:Dining experience with over five hours of West End entertainmen
+ t and bottomless brunch.\n\nPrice: £85.54\n\nTickets/Info: https://www.de
+ signmynight.com/london/best-london-events-in-march
+LOCATION:Secret London Location\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+END:VCALENDAR

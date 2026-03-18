@@ -1,0 +1,513 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 Top 10 – All London Events
+X-WR-CALDESC:London's top 40 picks this week across Date Night\, Only in London\, Culture & Arts and Going Out.
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:222a47eedf76@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260401
+SUMMARY:Intimate Talk with Willow Kemp
+DESCRIPTION:Talk with Firmdale Hotels Art Ambassador and Design Director fe
+ aturing cocktails.\n\nPrice: Check site\n\nTickets/Info: https://www.desig
+ nmynight.com/london/best-london-events-in-march
+LOCATION:Firmdale Hotels (various locations)\, Multiple\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:e6c023f6e349@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Chocolate Afternoon Tea
+DESCRIPTION:Afternoon tea with sandwiches\, sweet treats\, signature cockta
+ ils and bubbly.\n\nPrice: £29.70 - £37.40\n\nTickets/Info: https://www.d
+ esignmynight.com/london/best-london-events-in-march
+LOCATION:The Chocolate Cocktail Club\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:f76c28461dc3@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Circe's Cloud 9 Pods
+DESCRIPTION:Exclusive rooftop pods with city views\, blankets\, cocktails a
+ nd creative dishes.\n\nPrice: £250+ deposit (bar tab)\n\nTickets/Info: ht
+ tps://www.designmynight.com/london/best-london-events-in-march
+LOCATION:Circe's Rooftop Waterloo\, Waterloo\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:eaefc769a97c@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260621
+SUMMARY:Romeo & Juliet
+DESCRIPTION:Major West End revival of Shakespeare's love story directed by 
+ Robert Icke\, starring Sadie Sink and Noah Jupe in their West End debuts.\
+ n\nPrice: from £20\n\nTickets/Info: https://www.designmynight.com/london/
+ blog/things-to-do-in-london-this-weekend
+LOCATION:The Harold Pinter Theatre\, West End\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+BEGIN:VEVENT
+UID:fbef165a0114@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:CHOOKY Presents: Supper Club
+DESCRIPTION:Equinox-themed supper club with multiple courses using seasonal
+  ingredients.\n\nPrice: £45.00\n\nTickets/Info: https://www.designmynight
+ .com/london/best-london-events-in-march
+LOCATION:The William Morris Pub\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:3128296afeaa@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Wine Tasting Flight
+DESCRIPTION:Wine tasting of eight varieties paired with four courses of sma
+ ll plates.\n\nPrice: £75\n\nTickets/Info: https://www.designmynight.com/l
+ ondon/best-london-events-in-march
+LOCATION:Aspen and Meursault / Diogenes The Dog\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:3729cc351c32@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:The Murdér Express Part Deux
+DESCRIPTION:Immersive mystery experience where you solve cases while enjoyi
+ ng a three-course meal in a train carriage.\n\nPrice: £92.90 - £99.50\n\
+ nTickets/Info: https://www.designmynight.com/london/best-london-events-in-
+ march
+LOCATION:Pedley Street Station\, Shoreditch\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:656b080d3c08@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260607
+SUMMARY:Les Liaisons Dangereuses
+DESCRIPTION:New production directed by Marianne Elliott starring Lesley Man
+ ville and Aidan Turner in a scandalous battle of wits among French aristoc
+ rats.\n\nPrice: from £92\n\nTickets/Info: https://www.designmynight.com/l
+ ondon/blog/things-to-do-in-london-this-weekend
+LOCATION:Lyttelton Theatre\, National Theatre\, Southbank\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+BEGIN:VEVENT
+UID:e109e011b4f3@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Cabaret & Cabernet: A Wine Tasting Soirée
+DESCRIPTION:Wine tasting evening with sommelier selections\, feast\, and ca
+ baret performances including contortionists and burlesque.\n\nPrice: £210
+ .94\n\nTickets/Info: https://www.designmynight.com/london/best-london-even
+ ts-in-march
+LOCATION:L'oscar London\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:290a3414eb2c@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:West End Musical Brunch
+DESCRIPTION:Dining experience with over five hours of West End entertainmen
+ t and bottomless brunch.\n\nPrice: £85.54\n\nTickets/Info: https://www.de
+ signmynight.com/london/best-london-events-in-march
+LOCATION:Secret London Location\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:12ec88aa1b3c@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260921
+SUMMARY:The Underground (And Surface)
+DESCRIPTION:Large-scale Tube station paintings from the late 1990s with sou
+ ndscape by Jem Finer\, transforming how you see the Underground.\n\nPrice:
+  pay what you can\n\nTickets/Info: https://www.designmynight.com/london/bl
+ og/things-to-do-in-london-this-weekend
+LOCATION:Guildhall Yard\, City of London\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+BEGIN:VEVENT
+UID:e428f8838e08@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260323
+SUMMARY:Theatre for One
+DESCRIPTION:One-on-one theatrical performances where a single actor perform
+ s a five-minute play for just one audience member.\n\nPrice: Free\n\nTicke
+ ts/Info: https://www.ticketmaster.com
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.ticketmaster.com
+END:VEVENT
+BEGIN:VEVENT
+UID:4f6e372cb7a2@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260427
+SUMMARY:Serpentine Currents
+DESCRIPTION:Illuminated serpent installation floating above courtyard fount
+ ains\, animated by British coastline data conveying eco-conscious messages
+ .\n\nPrice: Check site\n\nTickets/Info: https://www.ticketmaster.com
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.ticketmaster.com
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5dc98b33b5@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Alcotraz London: Cell Block Two-One-Two
+DESCRIPTION:Immersive prison-themed theatre and cocktail experience with co
+ stumes and top-notch cocktails.\n\nPrice: £39.22 - £69.00\n\nTickets/Inf
+ o: https://www.designmynight.com/london/best-london-events-in-march
+LOCATION:Alcotraz Penitentiary: London\, Central London\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:ada72ced17e3@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260427
+SUMMARY:The Museum of Edible Earth
+DESCRIPTION:Multi-sensory exhibition featuring globally-sourced earths expl
+ oring culinary traditions and healing practices.\n\nPrice: Check site\n\nT
+ ickets/Info: https://www.timeout.com/london/london-events-in-march
+LOCATION:Somerset House\, Strand\, London
+URL:https://www.timeout.com/london/london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:50b63c6e550c@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:RED RABBIT II
+DESCRIPTION:Lynchian cabaret and burlesque night with dream sequences and s
+ urreal visitations hosted by Benjamin Louche.\n\nPrice: £11.00 - £84.80\
+ n\nTickets/Info: https://www.designmynight.com/london/best-london-events-i
+ n-march
+LOCATION:Walthamstow Trades Hall\, Walthamstow\, London
+URL:https://www.designmynight.com/london/best-london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:51b6b71c5575@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260323
+SUMMARY:Hexmoor: Wizarding Prison
+DESCRIPTION:Immersive theatrical bar experience with dark arts wizards\, pr
+ ison guards\, three cocktails\, special effects and jumpsuit.\n\nPrice: fr
+ om £49.50\n\nTickets/Info: https://www.designmynight.com/london/blog/thin
+ gs-to-do-in-london-this-weekend
+LOCATION:Hexmoor\, Hackney\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+BEGIN:VEVENT
+UID:2af5bdda2f14@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Wild Food Walks – Foraging in London
+DESCRIPTION:Guided foraging walk exploring London's wild edibles with exper
+ ienced independent teachers.\n\nPrice: £40.00\n\nTickets/Info: https://lo
+ ndoncheapo.com/events/march/
+LOCATION:Tower Hamlets\, Tower Hamlets\, London
+URL:https://londoncheapo.com/events/march/
+END:VEVENT
+BEGIN:VEVENT
+UID:2280c716bb4c@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260413
+SUMMARY:Scene Change
+DESCRIPTION:Series exploring transformative events in unexpected places acr
+ oss London.\n\nPrice: Check site\n\nTickets/Info: https://www.barbican.org
+ .uk/
+LOCATION:Barbican Centre\, Barbican\, London
+URL:https://www.barbican.org.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:ebcd287fc9d7@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260401
+SUMMARY:Look for the Woman Festival
+DESCRIPTION:Multi-disciplinary festival mixing clown\, dance\, puppetry\, s
+ ketch comedy\, drag\, poetry and fine art.\n\nPrice: Check site\n\nTickets
+ /Info: https://todolist.london/unmissable-things-to-do-in-london-in-march-
+ 2026/
+LOCATION:The Rosemary Branch\, Islington\, London
+URL:https://todolist.london/unmissable-things-to-do-in-london-in-march-2026
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:b41e0bb46360@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260323
+SUMMARY:Marie Antoinette Style
+DESCRIPTION:Exhibition exploring the French queen's fashion legacy and its 
+ countless style revivals.\n\nPrice: £23.00 – £25.00\n\nTickets/Info: h
+ ttps://londoncheapo.com/events/
+LOCATION:Victoria and Albert Museum\, South Kensington\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:17e9ac771430@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260413
+SUMMARY:The Tempest
+DESCRIPTION:Theatrical production of Shakespeare's play featuring four lost
+  souls on an island retelling their story.\n\nPrice: £5.00 – £80.00\n\
+ nTickets/Info: https://londoncheapo.com/events/
+LOCATION:Bankside\, Bankside\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:b10899488240@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260329
+SUMMARY:Our Town
+DESCRIPTION:Welsh National Theatre's production of Thorton Wilder's metathe
+ atrical drama featuring Michael Sheen as the Stage Manager.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.timeout.com/london/london-events-in-ma
+ rch
+LOCATION:Rose Kingston\, Kingston\, London
+URL:https://www.timeout.com/london/london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc557f9c565@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260607
+SUMMARY:Teeth 'n' Smiles
+DESCRIPTION:Self Esteem stars as an embittered rock star in David Hare's 19
+ 75 drama with new musical contributions from the performer.\n\nPrice: Chec
+ k site\n\nTickets/Info: https://www.timeout.com/london/london-events-in-ma
+ rch
+LOCATION:Covent Garden\, Covent Garden\, London
+URL:https://www.timeout.com/london/london-events-in-march
+END:VEVENT
+BEGIN:VEVENT
+UID:76f251b4cce0@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260330
+SUMMARY:Blitz: The Club That Shaped The 80s
+DESCRIPTION:Exhibition exploring the fashion and music of the legendary 198
+ 0s Blitz club in Covent Garden.\n\nPrice: Check site\n\nTickets/Info: http
+ s://londondrum.com/events/?m=march
+LOCATION:Design Museum\, Kensington\, London
+URL:https://londondrum.com/events/?m=march
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6eba1ca0b5@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260824
+SUMMARY:David Hockney: A Year In Normandie
+DESCRIPTION:Exhibition featuring a 90-metre-long landscape frieze inspired 
+ by the Bayeux Tapestry showing French countryside.\n\nPrice: Free\n\nTicke
+ ts/Info: https://www.designmynight.com/london/blog/things-to-do-in-london-
+ this-weekend
+LOCATION:Serpentine North Gallery\, South Kensington\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+BEGIN:VEVENT
+UID:8ebe92e44c98@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260901
+SUMMARY:Tracey Emin: A Second Life
+DESCRIPTION:Landmark exhibition of over 100 mixed-media works spanning 40 y
+ ears exploring life\, love\, heartbreak and hope.\n\nPrice: Check site\n\n
+ Tickets/Info: Book tickets here
+LOCATION:Tate Britain\, Pimlico\, London
+URL:Book tickets here
+END:VEVENT
+BEGIN:VEVENT
+UID:2cddf8e663f4@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260505
+SUMMARY:Samurai at The British Museum
+DESCRIPTION:Exhibition revealing reality and myths of Japan's warrior class
+  through battle gear\, paintings\, textiles and modern depictions.\n\nPric
+ e: Adults from £23\, Members and under-16s free\n\nTickets/Info: Find out
+  more and book tickets here
+LOCATION:The British Museum\, Bloomsbury\, London
+URL:Find out more and book tickets here
+END:VEVENT
+BEGIN:VEVENT
+UID:c4516e0028fe@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260727
+SUMMARY:Wes Anderson: The Archives
+DESCRIPTION:First UK retrospective of Wes Anderson featuring over 700 archi
+ ve items including costumes\, sets\, props and behind-the-scenes materials
+ .\n\nPrice: Check site\n\nTickets/Info: Book tickets here
+LOCATION:Design Museum\, Kensington\, London
+URL:Book tickets here
+END:VEVENT
+BEGIN:VEVENT
+UID:01d3e1cee702@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260412
+SUMMARY:Marie and Rosetta
+DESCRIPTION:Beverly Knight portrays Rosetta Tharpe\, the godmother of rock 
+ and roll\, in this intimate two-character play about her life and music.\n
+ \nPrice: Check site\n\nTickets/Info: https://www.timeout.com/london/things
+ -to-do/things-to-do-in-london-this-week
+LOCATION:Soho Theatre\, Soho\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-this
+ -week
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ae60b00c29@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260319
+SUMMARY:Wu-Tang Clan: Wu-Tang Forever
+DESCRIPTION:Wu-Tang Clan perform two London dates featuring soul-laced anth
+ ems and previously unheard songs.\n\nPrice: Check site\n\nTickets/Info: ht
+ tps://www.ticketmaster.com
+LOCATION:The O2\, Greenwich\, London
+URL:https://www.ticketmaster.com
+END:VEVENT
+BEGIN:VEVENT
+UID:52dda21c97ab@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:KiLLOWEN - Addicted to Nostalgia
+DESCRIPTION:KiLLOWEN explores Irish heritage and noughties nostalgia over s
+ oul-infused beats and club tracks.\n\nPrice: Check site\n\nTickets/Info: h
+ ttps://www.ticketmaster.com
+LOCATION:Scala\, King's Cross\, London
+URL:https://www.ticketmaster.com
+END:VEVENT
+BEGIN:VEVENT
+UID:78d48391b6eb@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Crystal Lake & Miss May I
+DESCRIPTION:Metalcore co-headline tour featuring Crystal Lake\, Miss May I\
+ , and special guests Great American Ghost.\n\nPrice: Check site\n\nTickets
+ /Info: https://www.ticketmaster.com
+LOCATION:O2 Academy Islington\, Islington\, London
+URL:https://www.ticketmaster.com
+END:VEVENT
+BEGIN:VEVENT
+UID:b822f3b45a20@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260321
+SUMMARY:Renée Rapp - BITE ME Tour
+DESCRIPTION:Renée Rapp performs her second studio album BITE ME with a def
+ iant pop and R&B show.\n\nPrice: Check site\n\nTickets/Info: https://www.t
+ icketmaster.com
+LOCATION:OVO Arena Wembley\, Wembley\, London
+URL:https://www.ticketmaster.com
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d829bbc185@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:SOCA & Friends
+DESCRIPTION:London's soca party featuring Caribbean music and dance until 4
+ am.\n\nPrice: Free\n\nTickets/Info: https://www.eventbrite.co.uk/d/united-
+ kingdom--london/events--this-week/
+LOCATION:Trapeze Bar\, Shoreditch\, London
+URL:https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:3b66da2cddb5@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:New Street Soul Club
+DESCRIPTION:New Street Adventure returns to perform soul music at the 100 C
+ lub.\n\nPrice: £24.54\n\nTickets/Info: https://www.eventbrite.co.uk/d/uni
+ ted-kingdom--london/events--this-week/
+LOCATION:100 Club\, Oxford Street\, London
+URL:https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:272ef15ab03a@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260330
+SUMMARY:Dark Comedy & Crowd Roasts
+DESCRIPTION:Evening of edgy comedy and crowd roasts on a barge.\n\nPrice: U
+ nder £10\n\nTickets/Info: https://londondrum.com/events/?m=march
+LOCATION:Battersea Barge\, Battersea\, London
+URL:https://londondrum.com/events/?m=march
+END:VEVENT
+BEGIN:VEVENT
+UID:b46498d00aee@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260401
+SUMMARY:Moonshine Saloon Immersive Experience
+DESCRIPTION:Immersive Wild West experience set in a Moonshine Saloon.\n\nPr
+ ice: £44\n\nTickets/Info: https://londondrum.com/events/?m=march
+LOCATION:Moonshine Saloon\, London\, London
+URL:https://londondrum.com/events/?m=march
+END:VEVENT
+BEGIN:VEVENT
+UID:2c597bf97f33@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260318
+SUMMARY:St. Patrick's Day at Guinness Open Gate
+DESCRIPTION:St. Patrick's celebrations with live music\, oyster shucking\, 
+ special menu\, brewery tours and comedy from Rory O'Hanlon.\n\nPrice: £45
+  for three-course menu\; brewery tour price not specified\n\nTickets/Info:
+  https://citizen-femme.com/2026/02/27/what-to-do-in-london-this-weekend/
+LOCATION:Guinness Open Gate Brewery London\, Waterloo\, London
+URL:https://citizen-femme.com/2026/02/27/what-to-do-in-london-this-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:78df5235e83e@london-events-scraper
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260830
+SUMMARY:Bottomless Hoedown Brunch
+DESCRIPTION:Bottomless brunch with burlesque\, drag\, country sing-alongs\,
+  bingo\, 90 minutes of drinks and pizza.\n\nPrice: from £52.92\n\nTickets
+ /Info: https://www.designmynight.com/london/blog/things-to-do-in-london-th
+ is-weekend
+LOCATION:Tequila Mockingbird Covent Garden\, Covent Garden\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
+END:VEVENT
+END:VCALENDAR
