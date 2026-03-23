@@ -39,59 +39,747 @@
     </IconStyle>
   </Style>
     <Placemark>
-      <name>Abstract Expressionism</name>
-      <description><![CDATA[<b>Abstract Expressionism</b><br><i>Arts &amp; Culture</i><br>Fri 6th Mar – Fri 17th Apr<br>Tate Modern, Bankside<br>£22<br><br>Major survey of Abstract Expressionism spanning six decades of American painting at Tate Modern.<br><br><a href="https://www.tate.org.uk/whats-on/tate-modern/abstract-expressionism">More info / tickets</a>]]></description>
+      <name>Scene Change</name>
+      <description><![CDATA[<b>Scene Change</b><br><i>Arts &amp; Culture</i><br>Tue 20th Jan – Sun 12th Apr<br>Barbican Centre, Barbican<br>Check site<br><br>Transformative events taking place in unexpected places, offering unique artistic experiences.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Tempest</name>
+      <description><![CDATA[<b>The Tempest</b><br><i>Theatre</i><br>Tue 27th Jan – Sun 12th Apr<br>Bankside, Bankside<br>£5.00 – £80.00<br><br>A theatrical production featuring Prospero, Miranda, Caliban, and Ariel, four lost souls on an island retelling their story.<br><br><a href="https://londoncheapo.com/events/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09934164882888792,51.5074293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rise and Fall of a Temple</name>
+      <description><![CDATA[<b>Rise and Fall of a Temple</b><br><i>Arts &amp; Culture</i><br>Fri 6th Feb – Fri 17th Jul<br>Chelsea Space, Pimlico<br>Free<br><br>Major exhibition by artist Eva Sajovic featuring multimedia artworks including sculptures, knitted tapestries, embroidery, ceramics and film inspired by Ancient Rome, exploring concepts of empire, power and legacy.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1293639,51.4901511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deep Azure</name>
+      <description><![CDATA[<b>Deep Azure</b><br><i>Theatre</i><br>Sat 7th Feb – Sat 11th Apr<br>Bankside, Bankside<br>£5.00 – £80.00<br><br>The UK premiere of Chadwick Boseman's powerful story of love, grief, and justice.<br><br><a href="https://londoncheapo.com/events/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09934164882888792,51.5074293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lynda Benglis - Encounters: Giacometti</name>
+      <description><![CDATA[<b>Lynda Benglis - Encounters: Giacometti</b><br><i>Arts &amp; Culture</i><br>Thu 12th Feb – Sun 31st May<br>Barbican Centre, Barbican<br>Check site<br><br>This Barbican Centre exhibition showcases the Art &amp; Design work of Lynda Benglis in dialogue with Giacometti.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Secret Agent</name>
+      <description><![CDATA[<b>The Secret Agent</b><br><i>Arts &amp; Culture</i><br>Fri 20th Feb – Thu 19th Mar<br>Barbican Centre, Barbican<br>Check site<br><br>A cinematic event at the Barbican Centre.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sense Ability Community Project</name>
+      <description><![CDATA[<b>Sense Ability Community Project</b><br><i>Community</i><br>Thu 26th Feb – Sat 28th Mar<br>Euston, Euston<br>Free<br><br>A 5-week community project featuring a cultural venue, cafe, apothecary, and gallery, offering a space for deep listening and resting. It is a freely accessible space during the day.<br><br><a href="https://londoncheapo.com/events/march/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1391424394436621,51.5253537,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Underground (And Surface) Exhibition</name>
+      <description><![CDATA[<b>The Underground (And Surface) Exhibition</b><br><i>Arts &amp; Culture</i><br>Fri 27th Feb – Sun 20th Sep<br>Guildhall Yard, City of London<br>pay what you can<br><br>Jock McFadyen's large-scale Tube station paintings from the late 1990s with a soundscape by Jem Finer, transforming familiar stations to rethink how you see the Underground.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09223056509157702,51.5155205,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sirât</name>
+      <description><![CDATA[<b>Sirât</b><br><i>Arts &amp; Culture</i><br>Fri 27th Feb – Thu 19th Mar<br>Barbican Centre, Barbican<br>Check site<br><br>A cinematic event at the Barbican Centre.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Testament of Ann Lee</name>
+      <description><![CDATA[<b>The Testament of Ann Lee</b><br><i>Arts &amp; Culture</i><br>Fri 27th Feb – Thu 19th Mar<br>Barbican Centre, Barbican<br>Check site<br><br>A cinematic event at the Barbican Centre.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central London Ramadan Lights</name>
+      <description><![CDATA[<b>Central London Ramadan Lights</b><br><i>Cultural</i><br>Sun 1st Mar – Tue 24th Mar<br>Coventry Street, Leicester Square<br>Free<br><br>Fourth year of Ramadan Lights spanning Coventry Street, switched on daily 5pm-5am reflecting iftar and suhoor timings, with an interfaith art exhibition.<br><br><a href="https://citizen-femme.com/2026/02/27/what-to-do-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1324266347451048,51.51026175035094,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marie Antoinette Style</name>
+      <description><![CDATA[<b>Marie Antoinette Style</b><br><i>Arts &amp; Culture</i><br>Sun 1st Mar – Sun 22nd Mar<br>Victoria and Albert Museum, South Kensington<br>Check site<br><br>Exploration of the glamorous world of Marie Antoinette and how she set the fashion agenda of her day through stylists, designers, hairdressers, and her monogram.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.17163721656927572,51.496883800000006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Our Town</name>
+      <description><![CDATA[<b>Our Town</b><br><i>Theatre</i><br>Sun 1st Mar – Sat 28th Mar<br>Rose Theatre Kingston, Kingston upon Thames<br>Check site<br><br>Welsh National Theatre's inaugural production—Thorton Wilder's revered metatheatrical drama about life and death in small-town America, featuring Michael Sheen as the Stage Manager.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.307544,51.408586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blitz!</name>
+      <description><![CDATA[<b>Blitz!</b><br><i>Arts &amp; Culture</i><br>Sun 1st Mar – Sun 29th Mar<br>Design Museum, Kensington<br>Check site<br><br>Exhibition on the New Romantics subculture of the 1980s and the iconic Blitz nightclub in Covent Garden, featuring a sensory extravaganza of music, film, art, and design.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.20015657157953362,51.4999153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teeth 'n' Smiles</name>
+      <description><![CDATA[<b>Teeth 'n' Smiles</b><br><i>Theatre</i><br>Sun 1st Mar – Sat 6th Jun<br>Covent Garden, Covent Garden<br>Check site<br><br>Pop star Self Esteem (Rebecca Lucy Taylor) stars in David Hare's 1975 drama about an embittered, alcoholic rock star, featuring new musical contributions from Taylor.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.12274129343434531,51.5119791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summerfolk</name>
+      <description><![CDATA[<b>Summerfolk</b><br><i>Theatre</i><br>Sun 1st Mar – Wed 29th Apr<br>National Theatre, South Bank<br>Check site<br><br>Adaptation of Maxim Gorky's classic drama by Nina Raine and Moses Raine, directed by Robert Hastie, following Russia's 1905 bourgeoisie retreating to the countryside.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11453015351581934,51.507038699999995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Romeo &amp; Juliet</name>
+      <description><![CDATA[<b>Romeo &amp; Juliet</b><br><i>Theatre</i><br>Sun 1st Mar – Sat 20th Jun<br>Leicester Square, Leicester Square<br>Check site<br><br>Fresh take on Shakespeare's classic by acclaimed theatre director Robert Icke.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1302749721722639,51.510776565245436,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Look for the Woman Festival</name>
+      <description><![CDATA[<b>Look for the Woman Festival</b><br><i>Festival</i><br>Sun 1st Mar – Tue 31st Mar<br>The Rosemary Branch Theatre, Islington<br>Check site<br><br>A festival mixing clown with dance, puppetry, sketch comedy, drag, poetry and even fine art.<br><br><a href="https://todolist.london/unmissable-things-to-do-in-london-in-march-2026/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.08692725402000337,51.53759545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Intimate Talk with Willow Kemp</name>
+      <description><![CDATA[<b>Intimate Talk with Willow Kemp</b><br><i>Arts &amp; Culture</i><br>Sun 1st Mar – Tue 31st Mar<br>Firmdale Hotels, Various London Locations<br>Check site<br><br>Join an intimate talk with Firmdale Hotels Art Ambassador and Design Director Willow Kemp, accompanied by cocktails.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.12974182519659294,51.513561949999996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dark Comedy &amp; Crowd Roasts</name>
+      <description><![CDATA[<b>Dark Comedy &amp; Crowd Roasts</b><br><i>Comedy</i><br>Sun 1st Mar – Sun 29th Mar<br>Battersea Barge, Battersea<br>Under £10<br><br>An evening of twisted dark comedy and crowd roasts, designed for those not easily offended.<br><br><a href="https://londondrum.com/events/?m=march">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.149107,51.478101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Uncontainable Nausea of Alec Baldwin</name>
+      <description><![CDATA[<b>The Uncontainable Nausea of Alec Baldwin</b><br><i>Theatre</i><br>Tue 3rd Mar – Tue 24th Mar<br>New Diorama Theatre, Euston<br>From £11<br><br>TG WORKS, a migrant-led, cross-disciplinary experimental theatre company, debuts this dangerous mix of conscience and violence.<br><br><a href="https://todolist.london/unmissable-things-to-do-in-london-in-march-2026/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1419658,51.5249861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sound of Falling</name>
+      <description><![CDATA[<b>Sound of Falling</b><br><i>Arts &amp; Culture</i><br>Fri 6th Mar – Thu 19th Mar<br>Barbican Centre, Barbican<br>Check site<br><br>A cinematic event at the Barbican Centre.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Theatre for One</name>
+      <description><![CDATA[<b>Theatre for One</b><br><i>Theatre</i><br>Thu 12th Mar – Sun 22nd Mar<br>Barbican Centre, Barbican<br>Free<br><br>One-on-one theatrical performances in an intimate booth where one actor performs a free, five-minute play for just one audience member.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guess How Much I Love You Afternoon Tea</name>
+      <description><![CDATA[<b>Guess How Much I Love You Afternoon Tea</b><br><i>Food &amp; Drink</i><br>Fri 13th Mar – Sun 19th Apr<br>Lanes of London, Mayfair<br>From £45<br><br>Literary-themed family-friendly afternoon tea featuring book-inspired sweet treats, savoury sandwiches, scones and children's menu with gift bag.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1551,51.51414,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Samurai</name>
+      <description><![CDATA[<b>Samurai</b><br><i>Arts &amp; Culture</i><br>Fri 13th Mar – Mon 4th May<br>The British Museum, Bloomsbury<br>Adults from £23, Members and under-16s free<br><br>Exhibition revealing both reality and myths of Japan's warrior class, featuring battle gear, paintings, photographs, textiles, and exploration of modern popular-culture depictions.<br><br><a href="Find out more and book tickets here">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1274856,51.5193755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wes Anderson: The Archives</name>
+      <description><![CDATA[<b>Wes Anderson: The Archives</b><br><i>Arts &amp; Culture</i><br>Fri 13th Mar – Sun 26th Jul<br>Design Museum, Kensington<br>Check site<br><br>First-ever UK retrospective of filmmaker Wes Anderson featuring over 700 items from archives including costumes, film clips, mini set replicas, behind-the-scenes stills, props, sketches, and sets.<br><br><a href="Book tickets here">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.20015657157953362,51.4999153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Resurrection</name>
+      <description><![CDATA[<b>Resurrection</b><br><i>Arts &amp; Culture</i><br>Fri 13th Mar – Wed 18th Mar<br>Barbican Centre, Barbican<br>Check site<br><br>A cinematic event at the Barbican Centre.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Love That Remains</name>
+      <description><![CDATA[<b>The Love That Remains</b><br><i>Arts &amp; Culture</i><br>Fri 13th Mar – Thu 19th Mar<br>Barbican Centre, Barbican<br>Check site<br><br>A cinematic event at the Barbican Centre.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Athena Festival</name>
+      <description><![CDATA[<b>Black Athena Festival</b><br><i>Festival</i><br>Fri 13th Mar – Sat 21st Mar<br>Rich Mix, Shoreditch<br>Check site<br><br>Dance, theatre, music, and live art collide in this fiesta including a 360° gig, Nigerian theatre and an anime-infused dance-theatre piece.<br><br><a href="https://todolist.london/unmissable-things-to-do-in-london-in-march-2026/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.07321,51.524433,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marie and Rosetta</name>
+      <description><![CDATA[<b>Marie and Rosetta</b><br><i>Theatre</i><br>Mon 16th Mar – Sat 11th Apr<br>Soho Theatre, Soho<br>Check site<br><br>British soul goddess Beverly Knight plays Rosetta Tharpe, the godmother of rock and roll, in this intimate two-hander about the life and music of Sister Rosetta Tharpe.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.13276842458202992,51.514412050000004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>David Hockney Exhibition</name>
+      <description><![CDATA[<b>David Hockney Exhibition</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 23rd Aug<br>Serpentine North Gallery, Kensington Gardens<br>Check site<br><br>The gallery's first ever Hockney exhibition featuring recent works including the celebrated Moon Room and digital paintings from his Sunrise series.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1903443,51.51462585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>It Walks Around the House at Night</name>
+      <description><![CDATA[<b>It Walks Around the House at Night</b><br><i>Theatre</i><br>Mon 16th Mar – Sat 28th Mar<br>Theatre, Elephant &amp; Castle<br>Check site<br><br>Horror theatre production by playwright Tim Foley about a misfit out-of-work actor caught up in supernatural goings on in a spooky mansion.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0971863561153852,51.5081214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manic Street Creature</name>
+      <description><![CDATA[<b>Manic Street Creature</b><br><i>Theatre</i><br>Mon 16th Mar – Sat 28th Mar<br>Theatre, Kilburn<br>Check site<br><br>Gig-theatre show by rising star Maimuna Memon mixing original songs with spoken-word storytelling, featuring a three-strong backing band.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2003532159122049,51.5431686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heart to Heart and Yin Xiuzhen Exhibition</name>
+      <description><![CDATA[<b>Heart to Heart and Yin Xiuzhen Exhibition</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 3rd May<br>Hayward Gallery, South Bank<br>Check site<br><br>Double bill exhibition featuring work by Chinese sculpture artist Yin Xiuzhen and Japanese artist Chiharu Shiota exploring themes of fabrics and interconnectedness.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11550494014084159,51.506168200000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Broken Glass</name>
+      <description><![CDATA[<b>Broken Glass</b><br><i>Theatre</i><br>Mon 16th Mar – Sat 18th Apr<br>Young Vic, Waterloo<br>Check site<br><br>Stylish production of Arthur Miller's play about a Jewish Brooklyn housewife inexplicably paralysed in the aftermath of Kristallnacht.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.10732258326303198,51.503283800000005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beatriz González Exhibition</name>
+      <description><![CDATA[<b>Beatriz González Exhibition</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 10th May<br>Barbican Art Gallery, Barbican<br>Check site<br><br>Vast collection of over 150 works spanning the six-decade career of Colombian artist Beatriz González, featuring bright pop art paintings.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0941509,51.5199619,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tracey Emin: A Second Life</name>
+      <description><![CDATA[<b>Tracey Emin: A Second Life</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Mon 31st Aug<br>Tate Modern, Bankside<br>Check site<br><br>40-year retrospective of pioneering artist Tracey Emin's vast repertoire, from iconic works like 'My Bed' to stark personal pieces.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.09934164882888792,51.5074293,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Open Mic Night</name>
-      <description><![CDATA[<b>Open Mic Night</b><br><i>Music</i><br>Fri 20th Mar<br>The Lexington, Islington<br>Free<br><br>Open stage for singers, comedians, and spoken word artists at The Lexington.<br><br><a href="https://www.thelexington.co.uk/open-mic">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Donna Gottschalk Photography Exhibition</name>
+      <description><![CDATA[<b>Donna Gottschalk Photography Exhibition</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 7th Jun<br>The Photographers Gallery, Soho<br>Check site<br><br>Exhibition of Donna Gottschalk's photographs championing NYC's lesbian, trans and gay rights movements in midcentury New York.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.11145561125384369,51.5317715,0</coordinates>
+        <coordinates>-0.1390441524372385,51.514956999999995,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Jazz Night</name>
-      <description><![CDATA[<b>Jazz Night</b><br><i>Music</i><br>Sat 21st Mar<br>Ronnie Scott's, Soho<br>£20<br><br>Live jazz with resident quartet and guest soloists at a legendary Soho venue.<br><br><a href="https://www.ronniescotts.co.uk/performances/jazz-night">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Wallace &amp; Gromit and Friends</name>
+      <description><![CDATA[<b>Wallace &amp; Gromit and Friends</b><br><i>Family</i><br>Mon 16th Mar – Sun 15th Nov<br>Young Victoria and Albert Museum, Bethnal Green<br>Check site<br><br>Inside Aardman exhibition featuring original models from Wallace &amp; Gromit and other Aardman animations, with hands-on stop-motion filmmaking activities.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.13156515150754539,51.513428250000004,0</coordinates>
+        <coordinates>-0.077084,51.523692,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Stand-up Comedy Night</name>
-      <description><![CDATA[<b>Stand-up Comedy Night</b><br><i>Comedy</i><br>Sat 21st Mar<br>The Comedy Store, West End<br>£18<br><br>Top-billed comedians at one of London's most iconic comedy venues.<br><br><a href="https://www.thecomedystore.co.uk/events/stand-up">More info / tickets</a>]]></description>
+      <name>Catherine Opie: To Be Seen</name>
+      <description><![CDATA[<b>Catherine Opie: To Be Seen</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 31st May<br>National Portrait Gallery, Trafalgar Square<br>Check site<br><br>First major UK exhibition of cult queer photographer Catherine Opie, featuring piercing portraits and challenging representation.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1284499246920578,51.50845015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lucian Freud: Drawing into Painting</name>
+      <description><![CDATA[<b>Lucian Freud: Drawing into Painting</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 3rd May<br>National Portrait Gallery, Trafalgar Square<br>Check site<br><br>Exhibition focusing on Lucian Freud's works on paper, examining his creative process through preparatory sketches and visual diary entries.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1284499246920578,51.50845015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rose Wylie: The Picture Comes First</name>
+      <description><![CDATA[<b>Rose Wylie: The Picture Comes First</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 19th Apr<br>Royal Academy of Arts, Piccadilly<br>Check site<br><br>Retrospective of 91-year-old artist Rose Wylie's vibrant, large-scale paintings. First female painter to have a full retrospective at the Royal Academy.<br><br><a href="https://www.timeout.com/london/things-to-do/things-to-do-in-london-this-week">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.13973813543557267,51.5092768,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baller League - Season 3</name>
+      <description><![CDATA[<b>Baller League - Season 3</b><br><i>Sport &amp; Fitness</i><br>Mon 16th Mar – Mon 13th Apr<br>Copper Box Arena, Stratford<br>Check site<br><br>Thrilling six-a-side professional football matches featuring KSI's Prime FC, Mark Goldbridge's Gold Devils and other teams on weekly matchdays.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.020064787306806754,51.5443061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Water Pantanal Fire</name>
+      <description><![CDATA[<b>Water Pantanal Fire</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 31st May<br>Science Museum, South Kensington<br>Free<br><br>Free exhibition featuring over 60 images by acclaimed documentary photographers portraying the wildlife and wildfires of the Pantanal wetland with striking urgency.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.174233,51.497764,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Serpentine Currents – Fragments of a Changing Future</name>
+      <description><![CDATA[<b>Serpentine Currents – Fragments of a Changing Future</b><br><i>Arts &amp; Culture</i><br>Mon 16th Mar – Sun 26th Apr<br>Somerset House, Strand<br>Check site<br><br>Illuminated serpent installation by Dana-Fiona Armour floating above the courtyard's water fountains, animated by British coastline data reflecting eco-conscious messages about ocean fragility.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wu-Tang Clan: Wu-Tang Forever</name>
+      <description><![CDATA[<b>Wu-Tang Clan: Wu-Tang Forever</b><br><i>Music</i><br>Tue 17th Mar – Wed 18th Mar<br>The O2, Greenwich<br>Check site<br><br>Wu-Tang Clan perform two London dates with strutting, soul-laced anthems and previously unheard songs.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0032029278126681844,51.502936649999995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KiLLOWEN - Addicted to Nostalgia</name>
+      <description><![CDATA[<b>KiLLOWEN - Addicted to Nostalgia</b><br><i>Music</i><br>Wed 18th Mar<br>Scala, King's Cross<br>Check site<br><br>KiLLOWEN explores Irish heritage and noughties nostalgia over soul-infused beats and club tracks.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.12066270462328776,51.53060585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>An Evening with Clive Myrie</name>
+      <description><![CDATA[<b>An Evening with Clive Myrie</b><br><i>Community</i><br>Wed 18th Mar<br>Victory Services Club, Victoria<br>£40.00<br><br>An intimate talk and conversation with broadcaster and journalist Clive Myrie.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.16196194412924605,51.51398695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Museum of Edible Earth</name>
+      <description><![CDATA[<b>The Museum of Edible Earth</b><br><i>Arts &amp; Culture</i><br>Wed 18th Mar – Sun 26th Apr<br>Somerset House, Strand<br>Check site<br><br>Multi-sensory exhibition featuring globally-sourced earths exploring culinary traditions and healing practices.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BFI Flare Film Festival 2026</name>
+      <description><![CDATA[<b>BFI Flare Film Festival 2026</b><br><i>Festival</i><br>Wed 18th Mar – Sun 29th Mar<br>BFI Southbank, Southbank<br>Check site<br><br>UK's largest queer film event for its 40th edition, featuring documentaries, features and landmark queer films.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11519989340533707,51.50672715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHOOKY Presents: Supper Club</name>
+      <description><![CDATA[<b>CHOOKY Presents: Supper Club</b><br><i>Food &amp; Drink</i><br>Wed 18th Mar<br>The William Morris Pub, Central London<br>£45.00<br><br>Equinox-themed supper club with multiple courses using seasonal ingredients.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.225701,51.49318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crystal Lake &amp; Miss May I</name>
+      <description><![CDATA[<b>Crystal Lake &amp; Miss May I</b><br><i>Music</i><br>Thu 19th Mar<br>O2 Academy Islington, Islington<br>Check site<br><br>Metalcore co-headline tour featuring Crystal Lake, Miss May I, and special guests Great American Ghost.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1056969,51.534574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Renée Rapp - BITE ME Tour</name>
+      <description><![CDATA[<b>Renée Rapp - BITE ME Tour</b><br><i>Music</i><br>Thu 19th Mar – Fri 20th Mar<br>OVO Arena Wembley, Wembley<br>Check site<br><br>Renée Rapp performs her second studio album BITE ME with a defiant pop and R&amp;B show.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.28279216149296427,51.5579996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Careers in Sport LIVE</name>
+      <description><![CDATA[<b>Careers in Sport LIVE</b><br><i>Community</i><br>Thu 19th Mar<br>Gtech Community Stadium, Brentford<br>Free<br><br>Career development event exploring opportunities in the sports industry.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.2889802136183117,51.49071295,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Finding Albion: Zakia Sewell &amp; Emma Dabiri</name>
+      <description><![CDATA[<b>Finding Albion: Zakia Sewell &amp; Emma Dabiri</b><br><i>Community</i><br>Thu 19th Mar<br>Foyles, Charing Cross Road<br>£8.00<br><br>In-conversation event between Zakia Sewell and Emma Dabiri exploring themes from Finding Albion.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.12857157196995697,51.51233899904073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ranjani-Gayatri: Tyagaraja's Path</name>
+      <description><![CDATA[<b>Ranjani-Gayatri: Tyagaraja's Path</b><br><i>Music</i><br>Thu 19th Mar<br>Barbican Centre, Barbican<br>Check site<br><br>Classical music performance exploring liberation through Indian classical traditions.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Body and Soul</name>
+      <description><![CDATA[<b>Body and Soul</b><br><i>Music</i><br>Thu 19th Mar – Sat 28th Mar<br>Sadlers Wells, Clerkenwell<br>Check site<br><br>English National Ballet's UK and world premiere exploring bereavement and the search for authentic self.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.092813,51.514993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Stitch Festival</name>
+      <description><![CDATA[<b>The Stitch Festival</b><br><i>Festival</i><br>Thu 19th Mar – Sun 22nd Mar<br>Angel, Angel<br>£16.00 – £26.00<br><br>Contemporary sewing and dressmaking show featuring trends in making and altering clothing.<br><br><a href="https://londoncheapo.com/events/march/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1060356,51.5324874,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wine Tasting Flight</name>
+      <description><![CDATA[<b>Wine Tasting Flight</b><br><i>Food &amp; Drink</i><br>Thu 19th Mar – Fri 19th Mar<br>Aspen and Meursault / Diogenes The Dog, Central London<br>£75<br><br>Wine tasting of eight varieties paired with four courses of small plates.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.16480193361806517,51.52894995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RED RABBIT II</name>
+      <description><![CDATA[<b>RED RABBIT II</b><br><i>Nightlife</i><br>Thu 19th Mar<br>Walthamstow Trades Hall, Walthamstow<br>£11.00 - £84.80<br><br>Lynchian cabaret and burlesque night with dream sequences and surreal visitations hosted by Benjamin Louche.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.019033,51.588945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Murdér Express Part Deux</name>
+      <description><![CDATA[<b>The Murdér Express Part Deux</b><br><i>Arts &amp; Social</i><br>Thu 19th Mar<br>Pedley Street Station, Shoreditch<br>£92.90 - £99.50<br><br>Immersive mystery experience where you solve cases while enjoying a three-course meal in a train carriage.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0651926,51.5232152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arkells</name>
+      <description><![CDATA[<b>Arkells</b><br><i>Music</i><br>Fri 20th Mar<br>Underworld, Camden<br>Check site<br><br>Canadian alt-rockers perform tracks from upcoming album Between Us, blending '80s nostalgia with socially-charged collaborations.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1422052,51.5391849,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hexmoor: Wizarding Prison</name>
+      <description><![CDATA[<b>Hexmoor: Wizarding Prison</b><br><i>Nightlife</i><br>Fri 20th Mar – Sun 22nd Mar<br>Hexmoor, Hackney<br>from £49.50<br><br>Immersive theatrical bar experience with dark arts wizards, prison guards, three cocktails, special effects and jumpsuit.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.047669054262764424,51.54888185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avenue Q</name>
+      <description><![CDATA[<b>Avenue Q</b><br><i>Theatre</i><br>Fri 20th Mar<br>Shaftesbury Theatre, West End<br>from £25<br><br>Three-time Tony Award-winning musical comedy about a graduate dealing with grown-up problems, featuring humans and puppets.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
         <coordinates>-0.1255974,51.5128988,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Dinosaurs Unearthed</name>
-      <description><![CDATA[<b>Dinosaurs Unearthed</b><br><i>Family</i><br>Sat 21st Mar – Sat 11th Apr<br>Natural History Museum, South Kensington<br>£18.50<br><br>Life-size animatronic dinosaurs and fossil casts from the Cretaceous period at the Natural History Museum.<br><br><a href="https://www.nhm.ac.uk/visit/whats-on/dinosaurs-unearthed.html">More info / tickets</a>]]></description>
-      <styleUrl>#green-dot.png</styleUrl>
+      <name>Art Surrey</name>
+      <description><![CDATA[<b>Art Surrey</b><br><i>Arts &amp; Culture</i><br>Fri 20th Mar<br>Sandown Park Racecourse, Surrey<br>£5.00<br><br>Art exhibition and event at racecourse venue.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.17600190725447445,51.496510900000004,0</coordinates>
+        <coordinates>-0.1700259170626849,51.476406850000004,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Jazz Night</name>
-      <description><![CDATA[<b>Jazz Night</b><br><i>Music</i><br>Sat 21st Mar<br>Pizza Express Jazz Club, Soho<br>£15<br><br>Intimate jazz session with top musicians in a relaxed dining setting.<br><br><a href="https://www.pizzaexpresslive.com/venues/soho/jazz-night">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1333176,51.5150535,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Hamlet</name>
-      <description><![CDATA[<b>Hamlet</b><br><i>Theatre</i><br>Sun 22nd Mar<br>Shakespeare's Globe, South Bank<br>£15–£45<br><br>Contemporary open-air production of Shakespeare's Hamlet at the Globe.<br><br><a href="https://www.shakespearesglobe.com/whats-on/hamlet">More info / tickets</a>]]></description>
+      <name>John Proctor is the Villain</name>
+      <description><![CDATA[<b>John Proctor is the Villain</b><br><i>Theatre</i><br>Fri 20th Mar – Sat 25th Apr<br>Royal Court Theatre, Sloane Square<br>Check site<br><br>UK debut of Kimberley Belflower's Broadway hit, a playful post-#MeToo riff on Arthur Miller's The Crucible.<br><br><a href="https://www.timeout.com/london/london-events-in-march">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.300806,51.392171,0</coordinates>
+        <coordinates>-0.15642424747340317,51.4925734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cardion Arts</name>
+      <description><![CDATA[<b>Cardion Arts</b><br><i>Arts &amp; Social</i><br>Fri 20th Mar<br>Institute of Contemporary Arts, Central London<br>From £12<br><br>Performance night featuring Wet Mess, Nando Messias, Travis Alabanza and others raising funds for akt.<br><br><a href="https://todolist.london/unmissable-things-to-do-in-london-in-march-2026/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1309517,51.5061576,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Move It</name>
+      <description><![CDATA[<b>Move It</b><br><i>Sport &amp; Fitness</i><br>Fri 20th Mar – Sun 22nd Mar<br>ExCel London, Royal Docks<br>£30.00<br><br>World's biggest dance event bringing together over 35,000 dancers.<br><br><a href="https://londoncheapo.com/events/march/">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.018406,51.506895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spider-Man: Into the Spider-Verse Live</name>
+      <description><![CDATA[<b>Spider-Man: Into the Spider-Verse Live</b><br><i>Music</i><br>Sat 21st Mar<br>Royal Festival Hall, Southbank<br>Check site<br><br>Live orchestra and turntable virtuosos perform the Emmy-winning score while the animated film plays on a huge HD screen.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.11678697153062867,51.5057791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Open Leytonstone</name>
+      <description><![CDATA[<b>Open Leytonstone</b><br><i>Community</i><br>Sat 21st Mar<br>Leytonstone Town Centre, Leytonstone<br>Free<br><br>Free celebration of Leytonstone featuring free events and taster sessions in craft, film and dance, plus local business discounts.<br><br><a href="https://www.ticketmaster.com">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.007009662013884261,51.5591511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Liaisons Dangereuses</name>
+      <description><![CDATA[<b>Les Liaisons Dangereuses</b><br><i>Theatre</i><br>Sat 21st Mar – Sat 6th Jun<br>Lyttelton Theatre, National Theatre, Southbank<br>from £92<br><br>New production directed by Marianne Elliott starring Lesley Manville and Aidan Turner in a scandalous battle of wits among French aristocrats.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1144341,51.5069667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Banff Mountain Film Festival</name>
+      <description><![CDATA[<b>Banff Mountain Film Festival</b><br><i>Arts &amp; Culture</i><br>Sat 21st Mar<br>Union Chapel, Islington<br>£18.15<br><br>Mountain and outdoor adventure film festival showcasing documentary films.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1024402559935205,51.544820599999994,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOCA &amp; Friends</name>
+      <description><![CDATA[<b>SOCA &amp; Friends</b><br><i>Nightlife</i><br>Sat 21st Mar<br>Trapeze Bar, Shoreditch<br>Free<br><br>London's soca party featuring Caribbean music and dance until 4am.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0833109,51.5257616,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stepps: 2 Years Deep</name>
+      <description><![CDATA[<b>Stepps: 2 Years Deep</b><br><i>Community</i><br>Sat 21st Mar<br>LDN East, East London<br>£15.28<br><br>Event celebrating two years of Stepps brand or initiative.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.070839,51.5156185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Street Soul Club</name>
+      <description><![CDATA[<b>New Street Soul Club</b><br><i>Music</i><br>Sat 21st Mar<br>100 Club, Oxford Street<br>£24.54<br><br>New Street Adventure returns to perform soul music at the 100 Club.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1353568,51.5161082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Live LinQ Day Party 90s-2000s</name>
+      <description><![CDATA[<b>Live LinQ Day Party 90s-2000s</b><br><i>Nightlife</i><br>Sat 21st Mar<br>Egg London Nightclub, Kings Cross<br>£11.55<br><br>Day party featuring 90s and 2000s reggae and dancehall music.<br><br><a href="https://www.eventbrite.co.uk/d/united-kingdom--london/events--this-week/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.115271,51.527597,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Project Hail Mary</name>
+      <description><![CDATA[<b>Project Hail Mary</b><br><i>Nightlife</i><br>Sat 21st Mar<br>Cinema, London<br>Check site<br><br>Space epic starring Ryan Gosling as an astronaut who teams up with a friendly extraterrestrial to save the galaxy.<br><br><a href="https://www.timeout.com/london/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0927141,51.6350991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Love That Remains</name>
+      <description><![CDATA[<b>The Love That Remains</b><br><i>Nightlife</i><br>Sat 21st Mar<br>Cinema, London<br>Check site<br><br>Icelandic family drama about a middle-aged trawlerman struggling following his separation.<br><br><a href="https://www.timeout.com/london/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0927141,51.6350991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Evening All Afternoon</name>
+      <description><![CDATA[<b>Evening All Afternoon</b><br><i>Theatre</i><br>Sat 21st Mar – Sat 11th Apr<br>Donmar Warehouse, Covent Garden<br>Check site<br><br>Two-hander about an American daughter and British father navigating grief and loss during Covid lockdown.<br><br><a href="https://www.timeout.com/london/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.122534,51.51251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramses and The Pharaohs' Gold</name>
+      <description><![CDATA[<b>Ramses and The Pharaohs' Gold</b><br><i>Arts &amp; Culture</i><br>Sat 21st Mar – Sun 31st May<br>Battersea, Battersea<br>Check site<br><br>Blockbuster exhibition of 180 Egyptian treasures including the coffin of Ramses II after a five-year world tour.<br><br><a href="https://www.timeout.com/london/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.15912652366499996,51.4732594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Where to From</name>
+      <description><![CDATA[<b>Where to From</b><br><i>Music</i><br>Sat 21st Mar<br>Barbican Centre, Barbican<br>Check site<br><br>Classical music composition by Hildur Guðnadóttir.<br><br><a href="https://www.barbican.org.uk/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deptford Literature Festival</name>
+      <description><![CDATA[<b>Deptford Literature Festival</b><br><i>Arts &amp; Culture</i><br>Sat 21st Mar – Sat 28th Mar<br>Deptford, Deptford<br>Free<br><br>Literature festival with free events, accessible talks and workshops for writers hosted by London Writer's Centre.<br><br><a href="https://todolist.london/unmissable-things-to-do-in-london-in-march-2026/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0215164,51.4758453,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GREY ARIAS</name>
+      <description><![CDATA[<b>GREY ARIAS</b><br><i>Comedy</i><br>Sat 21st Mar<br>Southbank Centre, Southbank<br>From £27<br><br>Cabaret and comedy performance featuring Le Gateau Chocolat and Adrienne Truscott.<br><br><a href="https://todolist.london/unmissable-things-to-do-in-london-in-march-2026/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1158875,51.5060021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wild Food Walks – Foraging in London</name>
+      <description><![CDATA[<b>Wild Food Walks – Foraging in London</b><br><i>Food &amp; Drink</i><br>Sat 21st Mar<br>Tower Hamlets, Tower Hamlets<br>£40.00<br><br>Guided foraging walk exploring London's wild edibles with experienced independent teachers.<br><br><a href="https://londoncheapo.com/events/march/">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.04242757865246988,51.51355345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Lindt Gold Bunny Hunt</name>
+      <description><![CDATA[<b>The Lindt Gold Bunny Hunt</b><br><i>Family</i><br>Sat 21st Mar – Sun 12th Apr<br>Hampton Court Palace, Hampton<br>Free<br><br>Easter egg hunt for children aged 3-12 with Lindt chocolate bunny prizes.<br><br><a href="https://londoncheapo.com/events/march/">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.3425203,51.4020159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabaret &amp; Cabernet: A Wine Tasting Soirée</name>
+      <description><![CDATA[<b>Cabaret &amp; Cabernet: A Wine Tasting Soirée</b><br><i>Food &amp; Drink</i><br>Sat 21st Mar<br>L'oscar London, Central London<br>£210.94<br><br>Wine tasting evening with sommelier selections, feast, and cabaret performances including contortionists and burlesque.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.16480193361806517,51.52894995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West End Musical Brunch</name>
+      <description><![CDATA[<b>West End Musical Brunch</b><br><i>Food &amp; Drink</i><br>Sat 21st Mar<br>Secret London Location, Central London<br>£85.54<br><br>Dining experience with over five hours of West End entertainment and bottomless brunch.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.16480193361806517,51.52894995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KIKI Drag Cabaret</name>
+      <description><![CDATA[<b>KIKI Drag Cabaret</b><br><i>Nightlife</i><br>Sat 21st Mar<br>Queen of Hoxton, Hoxton<br>£14.30 - £19.80<br><br>Drag cabaret show featuring lip-syncing, dance and vocals.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.08114784477535862,51.52214495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ginger's Big Drag Bottomless Brunch</name>
+      <description><![CDATA[<b>Ginger's Big Drag Bottomless Brunch</b><br><i>Food &amp; Drink</i><br>Sat 21st Mar<br>Balls Brothers - Austin Friars, Central London<br>£19.80 - £59.34<br><br>Drag brunch with performances, comedy, brunch food and prosecco.<br><br><a href="https://www.designmynight.com/london/best-london-events-in-march">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0803664,51.510937,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arsenal Women v West Ham United Women</name>
+      <description><![CDATA[<b>Arsenal Women v West Ham United Women</b><br><i>Sport &amp; Fitness</i><br>Sat 21st Mar<br>Emirates Stadium, Holloway<br>Check site<br><br>Women's football match between Arsenal and West Ham United.<br><br><a href="https://www.ticketmaster.co.uk/discover/london">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1083996708672374,51.55504035,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Come Alive! Greatest Showman Circus</name>
+      <description><![CDATA[<b>Come Alive! Greatest Showman Circus</b><br><i>Family</i><br>Sat 21st Mar<br>Empress Museum, Central London<br>Check site<br><br>Circus spectacular inspired by The Greatest Showman.<br><br><a href="https://www.ticketmaster.co.uk/discover/london">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.12670512482935314,51.51931175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carabao Cup Final</name>
+      <description><![CDATA[<b>Carabao Cup Final</b><br><i>Sport &amp; Fitness</i><br>Sun 22nd Mar<br>Wembley Stadium, Wembley<br>varies<br><br>2026 EFL Cup Final: Arsenal F.C. vs Manchester City F.C. at 4:30pm, viewable at Wembley and London pubs.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.27960339379401444,51.55606945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Silly Goose at Big Belly Comedy Club</name>
+      <description><![CDATA[<b>Silly Goose at Big Belly Comedy Club</b><br><i>Comedy</i><br>Sun 22nd Mar<br>Big Belly Comedy Club, Southwark<br>from £9.70<br><br>Comedy night featuring rising comics and mystery headliner, with a hunt for Southwark's Silliest Goose; £100 prize.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.10692,51.507774,0</coordinates>
       </Point>
     </Placemark>
   </Document>
